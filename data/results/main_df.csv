@@ -1,0 +1,2955 @@
+Country,Job Title,Age Group,Quantity,Percentage
+Great Britain,Unemployed,50-69,273,2.83%
+France,Unemployed,50-69,235,2.44%
+Germany,Unemployed,50-69,230,2.38%
+Germany,Unemployed,18-29,219,2.27%
+Spain,Unemployed,50-69,197,2.04%
+Italy,Unemployed,50-69,181,1.88%
+France,Unemployed,18-29,170,1.76%
+Great Britain,Unemployed,18-29,161,1.67%
+Germany,Unemployed,30-49,160,1.66%
+Italy,Unemployed,18-29,141,1.46%
+Poland,Unemployed,50-69,139,1.44%
+France,Unemployed,30-49,130,1.35%
+Spain,Unemployed,18-29,128,1.33%
+Great Britain,Unemployed,30-49,124,1.29%
+Italy,Unemployed,30-49,124,1.29%
+Poland,Unemployed,18-29,115,1.19%
+Spain,Unemployed,30-49,98,1.02%
+Netherlands,Unemployed,50-69,79,0.82%
+Poland,Unemployed,30-49,70,0.73%
+Netherlands,Unemployed,18-29,52,0.54%
+Hungary,Unemployed,50-69,40,0.41%
+Romania,Unemployed,18-29,37,0.38%
+Netherlands,Unemployed,30-49,36,0.37%
+Greece,Unemployed,50-69,36,0.37%
+Sweden,Unemployed,18-29,35,0.36%
+Belgium,Unemployed,18-29,30,0.31%
+Belgium,Unemployed,50-69,29,0.3%
+Greece,Unemployed,18-29,29,0.3%
+Romania,Unemployed,50-69,28,0.29%
+Austria,Unemployed,30-49,26,0.27%
+Sweden,Unemployed,50-69,26,0.27%
+Portugal,Unemployed,50-69,25,0.26%
+Greece,Unemployed,30-49,25,0.26%
+Hungary,Unemployed,18-29,23,0.24%
+Austria,Unemployed,18-29,22,0.23%
+Czechia,Unemployed,18-29,22,0.23%
+Bulgaria,Unemployed,50-69,21,0.22%
+Romania,Unemployed,30-49,21,0.22%
+Ireland,Unemployed,50-69,20,0.21%
+Czechia,Unemployed,50-69,20,0.21%
+Denmark,Unemployed,50-69,20,0.21%
+Sweden,Unemployed,30-49,20,0.21%
+Finland,Unemployed,50-69,19,0.2%
+Portugal,Unemployed,18-29,18,0.19%
+Czechia,Unemployed,30-49,17,0.18%
+Belgium,Unemployed,30-49,17,0.18%
+Croatia,Unemployed,18-29,16,0.17%
+Denmark,Unemployed,18-29,16,0.17%
+Bulgaria,Unemployed,30-49,15,0.16%
+Slovakia,Unemployed,18-29,15,0.16%
+Portugal,Unemployed,30-49,15,0.16%
+Ireland,Unemployed,18-29,14,0.15%
+Denmark,Unemployed,30-49,12,0.12%
+Finland,Unemployed,18-29,12,0.12%
+Austria,Unemployed,50-69,11,0.11%
+Germany,Database Engineer,50-69,11,0.11%
+Croatia,Unemployed,50-69,11,0.11%
+Croatia,Unemployed,30-49,11,0.11%
+France,Data Management Associate,50-69,10,0.1%
+France,Data Officer,50-69,10,0.1%
+France,Computer or Data Processing Systems Consultant,50-69,10,0.1%
+Hungary,Unemployed,30-49,10,0.1%
+Italy,Database Consultant,50-69,10,0.1%
+Great Britain,Data Processing Systems Analyst,50-69,10,0.1%
+Great Britain,Database Manager,50-69,10,0.1%
+Lithuania,Unemployed,18-29,10,0.1%
+Italy,Data Processing Auditor,50-69,10,0.1%
+Great Britain,Data Warehouse Architect,50-69,10,0.1%
+Italy,Data Modeling Specialist,50-69,9,0.09%
+Poland,Data Communications Analyst,50-69,9,0.09%
+Italy,Data Warehouse Architect,50-69,9,0.09%
+Spain,Automatic Data Processing Planner (ADP Planner),50-69,9,0.09%
+France,Database Coordinator,50-69,9,0.09%
+Bulgaria,Unemployed,18-29,9,0.09%
+Italy,Data Architect,50-69,9,0.09%
+Italy,Data Scientist,30-49,9,0.09%
+Slovakia,Unemployed,50-69,9,0.09%
+Great Britain,Database Tester,50-69,9,0.09%
+Germany,Database Administration Manager,30-49,9,0.09%
+Germany,Data Officer,50-69,9,0.09%
+France,Database Modeler,50-69,9,0.09%
+Germany,Data Storage Specialist,50-69,9,0.09%
+Germany,Oracle Database Administrator (Oracle DBA),50-69,9,0.09%
+Italy,Data Warehousing Specialist,50-69,8,0.08%
+Spain,Data Warehouse Architect,50-69,8,0.08%
+France,Database Software Technician,50-69,8,0.08%
+France,Data Processing Manager,50-69,8,0.08%
+France,Data Security Administrator,50-69,8,0.08%
+France,Database Marketing Analyst,50-69,8,0.08%
+Spain,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,8,0.08%
+Germany,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,8,0.08%
+Ireland,Unemployed,30-49,8,0.08%
+Great Britain,Automatic Data Processing Planner,50-69,8,0.08%
+Great Britain,Database Modeler,50-69,8,0.08%
+Germany,Data Architect,50-69,8,0.08%
+Italy,Database Security Administrator,50-69,8,0.08%
+Spain,Database Manager,50-69,8,0.08%
+Germany,Database Administration Associate,50-69,8,0.08%
+Italy,Database Architect,50-69,8,0.08%
+Spain,Database Management System Specialist (DBMS Specialist),50-69,8,0.08%
+Italy,Data Management Information Technology Specialist,50-69,8,0.08%
+France,Data Warehousing Manager,50-69,8,0.08%
+Germany,Data Warehouse Architect,50-69,8,0.08%
+France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,8,0.08%
+France,Data Architect,50-69,8,0.08%
+Great Britain,Data Communications Software Consultant,50-69,8,0.08%
+Spain,Data Systems Manager,50-69,8,0.08%
+Germany,Database Management System Specialist (DBMS Specialist),50-69,8,0.08%
+Spain,SQL Database Administrator,50-69,8,0.08%
+France,Database Development and Administration Project Manager,50-69,7,0.07%
+Great Britain,Head of Information Systems and Data Processing,50-69,7,0.07%
+Germany,Data Warehouse Analyst,50-69,7,0.07%
+Spain,Data Management Associate,50-69,7,0.07%
+Germany,Data Processing Systems Project Planner,50-69,7,0.07%
+Italy,Internet Database Specialist,50-69,7,0.07%
+Great Britain,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,7,0.07%
+Great Britain,Data Systems Manager,50-69,7,0.07%
+Germany,Data Modeling Specialist,50-69,7,0.07%
+France,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,7,0.07%
+France,Internet Database Specialist,50-69,7,0.07%
+Germany,Data Coordinator,50-69,7,0.07%
+Great Britain,Database Administration Associate,50-69,7,0.07%
+Germany,Data Warehouse Developer,50-69,7,0.07%
+Italy,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,7,0.07%
+Great Britain,Data Administrator,50-69,7,0.07%
+Spain,Data Security Administrator,50-69,7,0.07%
+Italy,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,7,0.07%
+France,Data Miner,50-69,7,0.07%
+Italy,Data Base Design Analyst,50-69,7,0.07%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),50-69,7,0.07%
+Spain,Data Security Analyst,50-69,7,0.07%
+Italy,Data Officer,50-69,7,0.07%
+France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,7,0.07%
+Poland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,7,0.07%
+Finland,Unemployed,30-49,7,0.07%
+Italy,Data Storage Specialist,50-69,7,0.07%
+Italy,Data Systems Manager,50-69,7,0.07%
+Germany,Electronic Data Interchange System Developer (EDI System Developer),50-69,7,0.07%
+Germany,Database Modeler,50-69,7,0.07%
+Italy,Data Warehousing Manager,50-69,7,0.07%
+Italy,Automatic Data Processing Planner (ADP Planner),50-69,7,0.07%
+France,Data Modeling Specialist,50-69,7,0.07%
+France,Database Administration Associate,50-69,7,0.07%
+Italy,Database Development and Administration Project Manager,50-69,7,0.07%
+Slovenia,Unemployed,18-29,7,0.07%
+Germany,Oracle Database Administrator (Oracle DBA),30-49,7,0.07%
+France,Database Consultant,30-49,7,0.07%
+France,Data Warehouse Architect,50-69,7,0.07%
+Great Britain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,7,0.07%
+France,Data Security Analyst,50-69,7,0.07%
+Germany,Database Consultant,50-69,7,0.07%
+Spain,Data Processing Manager,50-69,7,0.07%
+Italy,Database Management System Specialist (DBMS Specialist),50-69,7,0.07%
+Germany,Database Development and Administration Project Manager,30-49,6,0.06%
+Great Britain,Database Designer,50-69,6,0.06%
+Spain,Data Processing Systems Project Planner,50-69,6,0.06%
+Great Britain,Computer or Data Processing Systems Consultant,50-69,6,0.06%
+Germany,Data Communications Analyst,50-69,6,0.06%
+Spain,Data Modeling Specialist,50-69,6,0.06%
+Germany,Data Administrator,50-69,6,0.06%
+Germany,Data Administrator,30-49,6,0.06%
+Germany,Computer or Data Processing Systems Consultant,50-69,6,0.06%
+Spain,Data Coordinator,50-69,6,0.06%
+Spain,Data Processing Systems Analyst,50-69,6,0.06%
+Germany,Data Systems Manager,30-49,6,0.06%
+Germany,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,6,0.06%
+Germany,Database Development and Administration Project Manager,50-69,6,0.06%
+Spain,Database Engineer,30-49,6,0.06%
+Germany,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,6,0.06%
+Spain,Database Development and Administration Project Manager,30-49,6,0.06%
+Italy,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,6,0.06%
+Germany,Data Storage Specialist,30-49,6,0.06%
+Germany,Data Warehouse Specialist,30-49,6,0.06%
+Spain,Database Coordinator,50-69,6,0.06%
+Spain,Database Coordinator,30-49,6,0.06%
+Germany,Head of Information Systems and Data Processing,50-69,6,0.06%
+Great Britain,Data Processing Manager,50-69,6,0.06%
+Spain,Database Architect,50-69,6,0.06%
+Great Britain,Database Design Analyst,50-69,6,0.06%
+Italy,Database Administration Manager,50-69,6,0.06%
+France,Electronic Data Interchange System Developer (EDI System Developer),50-69,6,0.06%
+Italy,Database Tester,50-69,6,0.06%
+Italy,Data Administrator,50-69,6,0.06%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),50-69,6,0.06%
+Italy,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,6,0.06%
+Italy,Database Designer,50-69,6,0.06%
+France,Database Security Expert,50-69,6,0.06%
+France,Database Security Administrator,50-69,6,0.06%
+Italy,Database Security Expert,50-69,6,0.06%
+Poland,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,6,0.06%
+Spain,Head of Information Systems and Data Processing,50-69,6,0.06%
+Poland,Data Architect,30-49,6,0.06%
+Poland,Database Software Technician,50-69,6,0.06%
+Latvia,Unemployed,30-49,6,0.06%
+Germany,Automatic Data Processing Planner (ADP Planner),50-69,6,0.06%
+France,Data Processing Systems Analyst,50-69,6,0.06%
+Poland,Database Development and Administration Project Manager,50-69,6,0.06%
+Poland,Database Development and Administration Project Manager,30-49,6,0.06%
+Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,6,0.06%
+France,Database Designer,50-69,6,0.06%
+France,Database Consultant,50-69,6,0.06%
+Poland,Data Coordinator,50-69,6,0.06%
+Italy,Database Manager,50-69,6,0.06%
+France,Database Architect,50-69,6,0.06%
+Italy,Database Modeler,50-69,6,0.06%
+Poland,Data Warehouse Analyst,50-69,6,0.06%
+France,Data Storage Specialist,50-69,6,0.06%
+France,Database Tester,50-69,6,0.06%
+Italy,Director of Data Operations,50-69,6,0.06%
+France,Data Warehouse Analyst,50-69,6,0.06%
+Italy,Data Warehouse Analyst,50-69,6,0.06%
+Italy,Data Officer,30-49,6,0.06%
+Lithuania,Unemployed,50-69,6,0.06%
+France,Head of Information Systems and Data Processing,50-69,6,0.06%
+Romania,Data Officer,50-69,6,0.06%
+Italy,Data Miner,50-69,6,0.06%
+Italy,Data Warehousing Engineer,50-69,6,0.06%
+Italy,Database Architect,30-49,6,0.06%
+Italy,Data Miner,30-49,6,0.06%
+Great Britain,Database Security Expert,50-69,6,0.06%
+Poland,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,6,0.06%
+France,Automatic Data Processing Planner,50-69,6,0.06%
+Great Britain,Database Security Administrator,50-69,6,0.06%
+Italy,Data Warehousing Manager,30-49,6,0.06%
+France,Director of Data Operations,50-69,6,0.06%
+France,Director of Data Operations,30-49,6,0.06%
+Great Britain,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,6,0.06%
+Great Britain,Database Management System Specialist (DBMS Specialist),50-69,6,0.06%
+Germany,Automatic Data Processing Planner,30-49,6,0.06%
+Italy,SQL Database Administrator,50-69,6,0.06%
+Germany,Database Security Expert,50-69,5,0.05%
+France,Data Communications Analyst,50-69,5,0.05%
+Lithuania,Unemployed,30-49,5,0.05%
+France,Data Processing Systems Project Planner,50-69,5,0.05%
+Germany,Database Marketing Analyst,50-69,5,0.05%
+Germany,Database Management System Specialist (DBMS Specialist),30-49,5,0.05%
+France,Data Processing Auditor,50-69,5,0.05%
+Slovakia,Unemployed,30-49,5,0.05%
+France,Automatic Data Processing Planner (ADP Planner),50-69,5,0.05%
+France,Data Base Design Analyst,30-49,5,0.05%
+Germany,Database Manager,30-49,5,0.05%
+Germany,Database Architect,50-69,5,0.05%
+Germany,Database Manager,50-69,5,0.05%
+Germany,Automatic Data Processing Planner (ADP Planner),30-49,5,0.05%
+Germany,Database Administration Manager,50-69,5,0.05%
+France,Data Warehouse Specialist,50-69,5,0.05%
+Spain,Data Architect,50-69,5,0.05%
+Germany,Data Base Design Analyst,50-69,5,0.05%
+Spain,Data Communications Software Consultant,30-49,5,0.05%
+Spain,Data Communications Software Consultant,50-69,5,0.05%
+France,Oracle Database Administrator (Oracle DBA),50-69,5,0.05%
+Germany,Data Communications Analyst,30-49,5,0.05%
+Germany,Data Communications Software Consultant,30-49,5,0.05%
+France,Oracle Database Administrator (Oracle DBA),30-49,5,0.05%
+Germany,Data Management Information Technology Specialist,50-69,5,0.05%
+Germany,Data Miner,50-69,5,0.05%
+France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,5,0.05%
+Spain,Computer or Data Processing Systems Consultant,50-69,5,0.05%
+France,Electronic Data Processing Auditor (EDP Auditor),50-69,5,0.05%
+Germany,Database Specialist,50-69,5,0.05%
+Germany,Data Officer,30-49,5,0.05%
+Germany,Data Processing Consultant,30-49,5,0.05%
+Germany,Data Processing Consultant,50-69,5,0.05%
+France,Database Tester,30-49,5,0.05%
+France,Database Specialist,50-69,5,0.05%
+France,Database Software Technician,30-49,5,0.05%
+Germany,Data Processing Manager,50-69,5,0.05%
+Germany,Data Scientist,50-69,5,0.05%
+Germany,Data Security Administrator,30-49,5,0.05%
+Germany,Data Security Analyst,30-49,5,0.05%
+Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,5,0.05%
+France,Database Manager,30-49,5,0.05%
+France,Database Engineer,50-69,5,0.05%
+Germany,Data Warehousing Engineer,50-69,5,0.05%
+Germany,Data Warehousing Specialist,50-69,5,0.05%
+Latvia,Unemployed,18-29,5,0.05%
+Spain,Data Warehouse Analyst,30-49,5,0.05%
+Great Britain,Data Architect,50-69,5,0.05%
+Poland,Data Storage Specialist,50-69,5,0.05%
+Great Britain,Database Coordinator,50-69,5,0.05%
+Great Britain,Database Consultant,50-69,5,0.05%
+Great Britain,Database Consultant,30-49,5,0.05%
+Great Britain,Database Architect,50-69,5,0.05%
+Poland,Data Security Analyst,50-69,5,0.05%
+Spain,Database Security Expert,50-69,5,0.05%
+Poland,SQL Database Administrator,50-69,5,0.05%
+Great Britain,Data Warehousing Specialist,50-69,5,0.05%
+Great Britain,Data Warehouse Specialist,50-69,5,0.05%
+Poland,Data Miner,50-69,5,0.05%
+Spain,Database Marketing Analyst,30-49,5,0.05%
+Spain,Database Management System Specialist (DBMS Specialist),30-49,5,0.05%
+Spain,Database Engineer,50-69,5,0.05%
+Italy,Electronic Data Processing Auditor (EDP Auditor),50-69,5,0.05%
+Spain,Database Designer,50-69,5,0.05%
+Great Britain,Data Security Analyst,50-69,5,0.05%
+Great Britain,Data Processing Consultant,50-69,5,0.05%
+Great Britain,Data Processing Auditor,50-69,5,0.05%
+Great Britain,Data Officer,50-69,5,0.05%
+Poland,Data Storage Specialist,30-49,5,0.05%
+Italy,Database Marketing Analyst,50-69,5,0.05%
+Great Britain,Data Modeling Specialist,30-49,5,0.05%
+Poland,Data Warehouse Developer,50-69,5,0.05%
+Poland,Database Security Expert,50-69,5,0.05%
+Poland,Database Security Administrator,30-49,5,0.05%
+Italy,Database Software Technician,50-69,5,0.05%
+Poland,Electronic Data Processing Auditor (EDP Auditor),30-49,5,0.05%
+Great Britain,Oracle Database Administrator (Oracle DBA),50-69,5,0.05%
+Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,5,0.05%
+Poland,Database Designer,50-69,5,0.05%
+Poland,Database Design Analyst,50-69,5,0.05%
+Poland,Database Design Analyst,30-49,5,0.05%
+Poland,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,5,0.05%
+Poland,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,5,0.05%
+Poland,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,5,0.05%
+Great Britain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,5,0.05%
+Germany,Database Tester,50-69,5,0.05%
+Great Britain,Database Tester,30-49,5,0.05%
+Poland,Data Warehousing Manager,30-49,5,0.05%
+Spain,Electronic Data Interchange System Developer (EDI System Developer),30-49,5,0.05%
+Poland,Data Warehouse Specialist,30-49,5,0.05%
+Spain,Director of Data Operations,30-49,5,0.05%
+Great Britain,Data Modeling Specialist,50-69,5,0.05%
+Poland,Computer or Data Processing Systems Consultant,30-49,5,0.05%
+Italy,Database Design Analyst,30-49,5,0.05%
+Italy,Data Processing Systems Project Planner,50-69,5,0.05%
+Italy,Data Communications Analyst,50-69,5,0.05%
+Great Britain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,5,0.05%
+Great Britain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,5,0.05%
+Italy,Automatic Data Processing Planner,50-69,5,0.05%
+Italy,Data Management Associate,50-69,5,0.05%
+Italy,Data Processing Systems Analyst,30-49,5,0.05%
+Germany,Internet Database Specialist,50-69,5,0.05%
+Spain,Database Administration Manager,50-69,5,0.05%
+Germany,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,5,0.05%
+Germany,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,5,0.05%
+Germany,Electronic Data Processing Auditor (EDP Auditor),30-49,5,0.05%
+Germany,Director of Data Operations,50-69,5,0.05%
+Germany,Databases Software Consultant,50-69,5,0.05%
+Germany,Databases Computer Consultant,30-49,5,0.05%
+Great Britain,Computer or Data Processing Systems Consultant,30-49,5,0.05%
+Italy,Data Coordinator,50-69,5,0.05%
+Poland,Director of Data Operations,50-69,5,0.05%
+Great Britain,Data Coordinator,50-69,5,0.05%
+France,Data Modeling Specialist,30-49,4,0.04%
+Italy,Data Warehouse Architect,30-49,4,0.04%
+Poland,Database Administration Manager,30-49,4,0.04%
+France,Data Management Associate,30-49,4,0.04%
+Poland,Database Coordinator,50-69,4,0.04%
+France,Database Coordinator,30-49,4,0.04%
+France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,4,0.04%
+Poland,Automatic Data Processing Planner (ADP Planner),50-69,4,0.04%
+Italy,Computer or Data Processing Systems Consultant,30-49,4,0.04%
+Netherlands,Data Warehousing Engineer,50-69,4,0.04%
+Italy,Data Security Analyst,50-69,4,0.04%
+France,Data Officer,30-49,4,0.04%
+Poland,Database Security Administrator,50-69,4,0.04%
+Italy,Data Administrator,30-49,4,0.04%
+Italy,Data Warehouse Developer,50-69,4,0.04%
+France,Database Management System Specialist (DBMS Specialist),50-69,4,0.04%
+Poland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,4,0.04%
+Italy,Database Coordinator,50-69,4,0.04%
+Poland,Database Marketing Analyst,30-49,4,0.04%
+France,Database Manager,50-69,4,0.04%
+Italy,Data Warehouse Specialist,30-49,4,0.04%
+Italy,Data Warehouse Specialist,50-69,4,0.04%
+Poland,Database Engineer,30-49,4,0.04%
+France,Data Scientist,50-69,4,0.04%
+France,Data Coordinator,30-49,4,0.04%
+France,Data Warehouse Analyst,30-49,4,0.04%
+Poland,Data Operations Director,50-69,4,0.04%
+France,Data Coordinator,18-29,4,0.04%
+France,Data Communications Software Consultant,50-69,4,0.04%
+Netherlands,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,4,0.04%
+Poland,Data Processing Manager,50-69,4,0.04%
+France,Data Base Design Analyst,50-69,4,0.04%
+Poland,Data Communications Analyst,30-49,4,0.04%
+France,Data Coordinator,50-69,4,0.04%
+France,Data Entry Clerk,50-69,4,0.04%
+Italy,Database Engineer,50-69,4,0.04%
+France,Data Architect,30-49,4,0.04%
+Poland,Database Specialist,30-49,4,0.04%
+Italy,Data Communications Analyst,30-49,4,0.04%
+France,Data Warehouse Developer,50-69,4,0.04%
+Netherlands,Data Processing Systems Analyst,50-69,4,0.04%
+France,Data Warehouse Specialist,30-49,4,0.04%
+Italy,Data Coordinator,30-49,4,0.04%
+France,Data Warehousing Specialist,50-69,4,0.04%
+Italy,Data Input Clerk,50-69,4,0.04%
+Romania,Data Security Analyst,30-49,4,0.04%
+France,Automatic Data Processing Planner,30-49,4,0.04%
+Poland,Data Warehouse Developer,30-49,4,0.04%
+Italy,Data Processing Consultant,50-69,4,0.04%
+Germany,Database Specialist,30-49,4,0.04%
+Poland,Databases Software Consultant,50-69,4,0.04%
+Estonia,Unemployed,18-29,4,0.04%
+Great Britain,Customer Data Technician,50-69,4,0.04%
+Germany,Data Warehouse Specialist,50-69,4,0.04%
+Great Britain,Data Administrator,30-49,4,0.04%
+Germany,Data Warehouse Developer,30-49,4,0.04%
+Germany,Data Warehouse Developer,18-29,4,0.04%
+Germany,Data Warehouse Architect,30-49,4,0.04%
+Italy,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,4,0.04%
+Germany,Database Analyst,50-69,4,0.04%
+Germany,Data Systems Manager,50-69,4,0.04%
+Great Britain,Data Coordinator,30-49,4,0.04%
+Portugal,Data Coordinator,50-69,4,0.04%
+Great Britain,Data Entry Operator,50-69,4,0.04%
+Great Britain,Data Miner,30-49,4,0.04%
+Germany,Data Security Administrator,18-29,4,0.04%
+Portugal,Data Processing Consultant,50-69,4,0.04%
+Italy,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,4,0.04%
+Germany,Data Processing Manager,18-29,4,0.04%
+Germany,Head of Information Systems and Data Processing,30-49,4,0.04%
+Germany,Database Software Technician,30-49,4,0.04%
+Germany,Database Software Technician,18-29,4,0.04%
+Germany,Electronic Data Interchange System Developer (EDI System Developer),30-49,4,0.04%
+Germany,Electronic Data Processing Auditor (EDP Auditor),50-69,4,0.04%
+Germany,GPS Field Data Collector (Global Positioning System Field Data Collector),50-69,4,0.04%
+Germany,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,4,0.04%
+Germany,Internet Database Specialist,30-49,4,0.04%
+Germany,Database Architect,30-49,4,0.04%
+Germany,SQL Database Administrator,50-69,4,0.04%
+Germany,Database Designer,50-69,4,0.04%
+Germany,Database Design Analyst,50-69,4,0.04%
+Germany,Database Coordinator,50-69,4,0.04%
+Germany,Database Consultant,30-49,4,0.04%
+Italy,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,4,0.04%
+Germany,Data Processing Systems Analyst,30-49,4,0.04%
+Great Britain,Data Scientist,30-49,4,0.04%
+France,Database Modeler,30-49,4,0.04%
+Great Britain,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,4,0.04%
+Romania,Data Management Associate,50-69,4,0.04%
+France,Head of Information Systems and Data Processing,30-49,4,0.04%
+France,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,4,0.04%
+Great Britain,Databases Computer Consultant,50-69,4,0.04%
+Great Britain,Electronic Data Interchange System Developer (EDI System Developer),50-69,4,0.04%
+France,Director of Data Operations,18-29,4,0.04%
+Great Britain,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,4,0.04%
+Great Britain,Database Software Technician,30-49,4,0.04%
+France,Databases Computer Consultant,50-69,4,0.04%
+Great Britain,Internet Database Specialist,30-49,4,0.04%
+Poland,Electronic Data Interchange System Developer (EDI System Developer),50-69,4,0.04%
+Italy,Database Software Technician,30-49,4,0.04%
+Poland,Director of Data Operations,30-49,4,0.04%
+Romania,Data Processing Systems Project Planner,50-69,4,0.04%
+Great Britain,Database Specialist,30-49,4,0.04%
+Italy,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",50-69,4,0.04%
+Great Britain,Data Storage Specialist,50-69,4,0.04%
+Great Britain,Database Administration Associate,18-29,4,0.04%
+Germany,Data Officer,18-29,4,0.04%
+Italy,Electronic Data Interchange System Developer (EDI System Developer),30-49,4,0.04%
+Great Britain,Data Warehouse Analyst,30-49,4,0.04%
+Romania,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,4,0.04%
+Great Britain,Data Warehouse Analyst,50-69,4,0.04%
+Great Britain,Data Warehouse Developer,50-69,4,0.04%
+Great Britain,Database Administration Manager,30-49,4,0.04%
+Great Britain,Database Marketing Analyst,30-49,4,0.04%
+Germany,Computer or Data Processing Systems Consultant,30-49,4,0.04%
+Germany,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,4,0.04%
+Great Britain,Database Development and Administration Project Manager,50-69,4,0.04%
+Great Britain,Database Engineer,30-49,4,0.04%
+Great Britain,Database Engineer,50-69,4,0.04%
+Italy,Internet Database Specialist,30-49,4,0.04%
+France,Geographic Information Systems Data Manager (GIS Data Manager),50-69,4,0.04%
+Germany,Data Warehousing Manager,30-49,4,0.04%
+Spain,Data Processing Consultant,30-49,4,0.04%
+Spain,Databases Computer Consultant,30-49,4,0.04%
+Spain,Data Communications Analyst,50-69,4,0.04%
+Spain,Database Administration Associate,50-69,4,0.04%
+Spain,Data Warehouse Specialist,50-69,4,0.04%
+Spain,Data Warehouse Specialist,30-49,4,0.04%
+Spain,Database Development and Administration Project Manager,50-69,4,0.04%
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),30-49,4,0.04%
+Spain,Database Security Administrator,30-49,4,0.04%
+Spain,Database Software Technician,30-49,4,0.04%
+Spain,Data Management Information Technology Specialist,50-69,4,0.04%
+Spain,Automatic Data Processing Planner,50-69,4,0.04%
+Spain,Automatic Data Processing Planner,30-49,4,0.04%
+Spain,Oracle Database Administrator (Oracle DBA),50-69,4,0.04%
+Spain,Database Security Administrator,50-69,4,0.04%
+Spain,Data Scientist,50-69,4,0.04%
+Spain,Databases Software Consultant,50-69,4,0.04%
+Spain,Data Miner,50-69,4,0.04%
+Spain,Data Sciences Director,50-69,4,0.04%
+Slovenia,Unemployed,30-49,4,0.04%
+Denmark,Data Communications Software Consultant,50-69,4,0.04%
+Romania,Computer or Data Processing Systems Consultant,50-69,3,0.03%
+Germany,Data Management Information Technology Specialist,30-49,3,0.03%
+Italy,Data Entry Supervisor,50-69,3,0.03%
+Spain,Data Processing Auditor,50-69,3,0.03%
+Germany,Data Management Information Technology Specialist,18-29,3,0.03%
+Germany,Data Management Associate,50-69,3,0.03%
+Romania,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,3,0.03%
+Italy,Data Processor,50-69,3,0.03%
+Germany,Data Coordinator,30-49,3,0.03%
+Poland,Database Security Expert,30-49,3,0.03%
+Spain,Data Coordinator,30-49,3,0.03%
+Germany,Data Conversion Operator,50-69,3,0.03%
+Germany,Data Warehousing Manager,50-69,3,0.03%
+Germany,Data Warehousing Specialist,18-29,3,0.03%
+Germany,Data Communications Software Consultant,50-69,3,0.03%
+Spain,Data Compiler,30-49,3,0.03%
+Germany,Data Collection Technician,50-69,3,0.03%
+Italy,Data Processing Systems Analyst,50-69,3,0.03%
+Germany,Data Modeling Specialist,30-49,3,0.03%
+Germany,Data Miner,30-49,3,0.03%
+Germany,Data Processing Systems Analyst,50-69,3,0.03%
+Poland,Databases Computer Consultant,50-69,3,0.03%
+Germany,Data Security Analyst,50-69,3,0.03%
+Germany,Data Security Administrator,50-69,3,0.03%
+Italy,Data Manager,50-69,3,0.03%
+Spain,Data Management Associate,30-49,3,0.03%
+Germany,Data Scientist,30-49,3,0.03%
+Germany,Data Processing Systems Project Planner,30-49,3,0.03%
+Romania,Data Administrator,50-69,3,0.03%
+Spain,Data Operations Director,50-69,3,0.03%
+Netherlands,Database Coordinator,30-49,3,0.03%
+Sweden,Data Processing Manager,50-69,3,0.03%
+Poland,Database Tester,50-69,3,0.03%
+Italy,Data Processing Manager,50-69,3,0.03%
+Germany,Data Processing Auditor,50-69,3,0.03%
+Germany,Data Operations Director,50-69,3,0.03%
+Czechia,Data Officer,30-49,3,0.03%
+Italy,Data Security Administrator,50-69,3,0.03%
+Italy,Data Processing Systems Project Planner,30-49,3,0.03%
+Germany,Data Center Operator,50-69,3,0.03%
+France,Database Development and Administration Project Manager,30-49,3,0.03%
+Poland,Database Management System Specialist (DBMS Specialist),50-69,3,0.03%
+Poland,Database Management System Specialist (DBMS Specialist),30-49,3,0.03%
+France,Databases Software Consultant,30-49,3,0.03%
+France,Databases Computer Consultant,30-49,3,0.03%
+France,Database Specialist,30-49,3,0.03%
+Italy,Database Design Analyst,50-69,3,0.03%
+Greece,Data Warehousing Engineer,50-69,3,0.03%
+France,Database Marketing Analyst,30-49,3,0.03%
+France,Database Engineer,30-49,3,0.03%
+Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,3,0.03%
+Poland,Database Manager,30-49,3,0.03%
+Italy,Database Development and Administration Project Manager,30-49,3,0.03%
+France,Database Design Analyst,50-69,3,0.03%
+France,Database Design Analyst,18-29,3,0.03%
+Poland,Data Management Information Technology Specialist,30-49,3,0.03%
+Italy,Database Engineer,30-49,3,0.03%
+France,Database Architect,18-29,3,0.03%
+Spain,Micro Computer Data Processor,50-69,3,0.03%
+Romania,Data Storage Specialist,30-49,3,0.03%
+Italy,Database Management System Specialist (DBMS Specialist),30-49,3,0.03%
+Spain,Computer or Data Processing Systems Consultant,30-49,3,0.03%
+Italy,Database Administration Manager,30-49,3,0.03%
+Germany,Data Base Design Analyst,30-49,3,0.03%
+Czechia,Database Engineer,30-49,3,0.03%
+Netherlands,Data Warehouse Analyst,50-69,3,0.03%
+Germany,Data Architect,30-49,3,0.03%
+Germany,Data Warehousing Specialist,30-49,3,0.03%
+Romania,Data Architect,30-49,3,0.03%
+Greece,Data Miner,50-69,3,0.03%
+Italy,Data Typist,50-69,3,0.03%
+Greece,Data Officer,50-69,3,0.03%
+Germany,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,3,0.03%
+Germany,Automatic Data Processing Planner,50-69,3,0.03%
+Germany,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,3,0.03%
+France,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,3,0.03%
+Germany,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,3,0.03%
+Italy,Data Warehouse Developer,30-49,3,0.03%
+Czechia,Database Software Technician,50-69,3,0.03%
+Italy,Database Administration Associate,30-49,3,0.03%
+France,Log Data Technician,50-69,3,0.03%
+Italy,Database Administration Associate,50-69,3,0.03%
+France,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,3,0.03%
+Czechia,Director of Data Operations,50-69,3,0.03%
+Italy,Database Administration Manager,18-29,3,0.03%
+Italy,Data Storage Specialist,30-49,3,0.03%
+Germany,Database Software Technician,50-69,3,0.03%
+Netherlands,Database Marketing Analyst,50-69,3,0.03%
+Great Britain,Data Security Administrator,50-69,3,0.03%
+Bulgaria,Data Warehouse Specialist,30-49,3,0.03%
+Poland,SQL Database Administrator,30-49,3,0.03%
+Great Britain,Data Warehousing Manager,18-29,3,0.03%
+Great Britain,Data Warehouse Specialist,30-49,3,0.03%
+Great Britain,Data Warehouse Developer,30-49,3,0.03%
+Hungary,SQL Database Administrator,30-49,3,0.03%
+Great Britain,Data Typist,50-69,3,0.03%
+Spain,Database Development and Administration Project Manager,18-29,3,0.03%
+Great Britain,Data Security Analyst,30-49,3,0.03%
+Great Britain,Data Scientist,50-69,3,0.03%
+Great Britain,Data Miner,50-69,3,0.03%
+Great Britain,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,3,0.03%
+Great Britain,Data Processor,50-69,3,0.03%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),50-69,3,0.03%
+Portugal,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,3,0.03%
+Great Britain,Data Processing Systems Project Planner,50-69,3,0.03%
+Sweden,Automatic Data Processing Planner,50-69,3,0.03%
+Portugal,Data Administrator,50-69,3,0.03%
+Great Britain,Data Operations Director,50-69,3,0.03%
+Great Britain,Data Officer,30-49,3,0.03%
+Great Britain,Database Administration Manager,50-69,3,0.03%
+Spain,Database Security Expert,30-49,3,0.03%
+Spain,Database Software Technician,50-69,3,0.03%
+Poland,Oracle Database Administrator (Oracle DBA),50-69,3,0.03%
+Spain,Electronic Data Processing Auditor (EDP Auditor),50-69,3,0.03%
+Great Britain,Director of Data Operations,50-69,3,0.03%
+Spain,Weight in Motion Field Data Collection Technician,30-49,3,0.03%
+Great Britain,Databases Software Consultant,50-69,3,0.03%
+Spain,Electronic Data Processing Auditor (EDP Auditor),30-49,3,0.03%
+Spain,Electronic Data Interchange System Developer (EDI System Developer),50-69,3,0.03%
+Poland,Data Architect,50-69,3,0.03%
+Great Britain,Database Specialist,50-69,3,0.03%
+Spain,Director of Data Operations,50-69,3,0.03%
+Great Britain,Database Security Expert,30-49,3,0.03%
+Spain,Databases Software Consultant,30-49,3,0.03%
+Poland,Data Administrator,50-69,3,0.03%
+Great Britain,Database Engineer,18-29,3,0.03%
+Bulgaria,Data Processing Manager,50-69,3,0.03%
+Poland,Oracle Database Administrator (Oracle DBA),30-49,3,0.03%
+Great Britain,Database Designer,30-49,3,0.03%
+Great Britain,Database Designer,18-29,3,0.03%
+Great Britain,Database Design Analyst,30-49,3,0.03%
+Spain,Database Specialist,30-49,3,0.03%
+Bulgaria,Head of Information Systems and Data Processing,50-69,3,0.03%
+Bulgaria,Internet Database Specialist,50-69,3,0.03%
+Germany,Database Coordinator,30-49,3,0.03%
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),50-69,3,0.03%
+Great Britain,Oracle Database Administrator (Oracle DBA),30-49,3,0.03%
+Spain,Data Systems Manager,30-49,3,0.03%
+Germany,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,3,0.03%
+Germany,Geographic Information Systems Data Manager (GIS Data Manager),30-49,3,0.03%
+Germany,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,3,0.03%
+Spain,Data Storage Specialist,30-49,3,0.03%
+Netherlands,Electronic Data Processing Auditor (EDP Auditor),50-69,3,0.03%
+Germany,Flight Data Technician,50-69,3,0.03%
+Germany,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,3,0.03%
+Spain,Data Security Administrator,30-49,3,0.03%
+Portugal,Data Communications Software Consultant,50-69,3,0.03%
+Spain,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,3,0.03%
+Great Britain,SQL Database Administrator,18-29,3,0.03%
+Germany,Databases Computer Consultant,50-69,3,0.03%
+Great Britain,SQL Database Administrator,50-69,3,0.03%
+Italy,Database Security Administrator,30-49,3,0.03%
+Italy,Data Communications Software Consultant,50-69,3,0.03%
+Germany,Database Security Administrator,50-69,3,0.03%
+Germany,Database Modeler,30-49,3,0.03%
+Spain,Data Processing Systems Analyst,30-49,3,0.03%
+Spain,Data Warehouse Analyst,50-69,3,0.03%
+Poland,Data Communications Software Consultant,50-69,3,0.03%
+Portugal,Data Scientist,50-69,3,0.03%
+Italy,Data Administrator,18-29,3,0.03%
+Poland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,3,0.03%
+Belgium,Data Officer,30-49,3,0.03%
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),30-49,3,0.03%
+Italy,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,3,0.03%
+Great Britain,Head of Information Systems and Data Processing,30-49,3,0.03%
+Great Britain,Data Base Design Analyst,30-49,3,0.03%
+Great Britain,Data Architect,30-49,3,0.03%
+Great Britain,Data Analyst,30-49,3,0.03%
+Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,3,0.03%
+Great Britain,Internet Database Specialist,50-69,3,0.03%
+Spain,Data Warehousing Specialist,50-69,3,0.03%
+Poland,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,3,0.03%
+Poland,Flight Data Technician,50-69,3,0.03%
+Great Britain,Automatic Data Processing Planner (ADP Planner),50-69,3,0.03%
+Poland,Data Collection Technician,50-69,3,0.03%
+Spain,Data Warehousing Engineer,30-49,3,0.03%
+Great Britain,Medical Data Analyst,50-69,3,0.03%
+Netherlands,Internet Database Specialist,50-69,3,0.03%
+Great Britain,Naval Tactical Data System--Combat Information Center Officer,50-69,3,0.03%
+France,Data Warehousing Engineer,50-69,3,0.03%
+Great Britain,Electronic Data Interchange System Developer (EDI System Developer),30-49,3,0.03%
+France,Data Processing Systems Analyst,30-49,3,0.03%
+France,Clinical Data Management Manager (CDM Manager),50-69,3,0.03%
+France,Automatic Data Processing Planner,18-29,3,0.03%
+France,Data Communications Analyst,30-49,3,0.03%
+Romania,SQL Database Administrator,50-69,3,0.03%
+Poland,Data Officer,50-69,3,0.03%
+Poland,Data Modeling Specialist,30-49,3,0.03%
+France,Automatic Data Processing Planner (ADP Planner),30-49,3,0.03%
+Austria,Data Processing Auditor,18-29,3,0.03%
+Poland,Data Systems Manager,30-49,3,0.03%
+Poland,Data Storage Specialist,18-29,3,0.03%
+Belgium,Database Engineer,50-69,3,0.03%
+France,Business Database Analyst,50-69,3,0.03%
+Italy,Head of Information Systems and Data Processing,50-69,3,0.03%
+Poland,Data Security Analyst,30-49,3,0.03%
+Slovakia,Database Manager,50-69,3,0.03%
+Italy,Databases Computer Consultant,50-69,3,0.03%
+Poland,Data Processing Auditor,30-49,3,0.03%
+France,Data Security Administrator,30-49,3,0.03%
+Hungary,Data Administrator,30-49,3,0.03%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),50-69,3,0.03%
+France,Data Communications Software Consultant,18-29,3,0.03%
+France,Data Entry Representative,50-69,3,0.03%
+Romania,Database Consultant,30-49,3,0.03%
+France,Data Miner,18-29,3,0.03%
+Denmark,Database Specialist,50-69,3,0.03%
+Romania,Database Consultant,50-69,3,0.03%
+Netherlands,Data Management Associate,50-69,3,0.03%
+France,Data Modeling Specialist,18-29,3,0.03%
+Netherlands,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,3,0.03%
+Spain,Oracle Database Administrator (Oracle DBA),30-49,3,0.03%
+France,Data Communications Technician,50-69,3,0.03%
+Romania,Electronic Data Processing Auditor (EDP Auditor),50-69,3,0.03%
+Poland,Data Officer,30-49,3,0.03%
+France,Data Operations Director,18-29,3,0.03%
+Hungary,Database Administration Associate,30-49,3,0.03%
+Italy,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,3,0.03%
+Romania,Head of Information Systems and Data Processing,50-69,3,0.03%
+Romania,Database Engineer,50-69,3,0.03%
+Poland,Data Security Administrator,50-69,3,0.03%
+Poland,Data Processing Consultant,50-69,3,0.03%
+Romania,Database Tester,30-49,3,0.03%
+Poland,Data Warehouse Specialist,50-69,3,0.03%
+Netherlands,Data Processing Equipment Repairer,50-69,3,0.03%
+Poland,Data Management Information Technology Specialist,50-69,3,0.03%
+France,Computer or Data Processing Systems Consultant,30-49,3,0.03%
+Greece,Internet Database Specialist,50-69,3,0.03%
+Hungary,Data Management Associate,50-69,3,0.03%
+Slovakia,Data Scientist,50-69,3,0.03%
+France,Data Administrator,50-69,3,0.03%
+Greece,Database Coordinator,18-29,3,0.03%
+Netherlands,Data Processing Manager,50-69,3,0.03%
+Hungary,Data Miner,30-49,3,0.03%
+France,Data Systems Manager,50-69,3,0.03%
+Poland,Data Security Administrator,18-29,3,0.03%
+France,Data Systems Manager,30-49,3,0.03%
+Romania,Database Specialist,50-69,3,0.03%
+Estonia,Unemployed,30-49,3,0.03%
+Romania,Database Tester,50-69,3,0.03%
+Poland,Field Artillery Automated Tactical Data System Specialist,18-29,2,0.02%
+Poland,Director of Data Operations,18-29,2,0.02%
+Germany,Voice and Data Technician,18-29,2,0.02%
+Italy,Data Compiler,50-69,2,0.02%
+Germany,Voice and Data Technician,30-49,2,0.02%
+Romania,Databases Computer Consultant,18-29,2,0.02%
+Italy,SQL Database Administrator,30-49,2,0.02%
+Greece,SQL Database Administrator,30-49,2,0.02%
+Italy,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,2,0.02%
+Sweden,Data Coder Operator,50-69,2,0.02%
+Italy,Computer or Data Processing Systems Consultant,50-69,2,0.02%
+France,Analytical Data Miner,50-69,2,0.02%
+Netherlands,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,2,0.02%
+Germany,SCADA Operator (Supervisory Control and Data Acquisition Operator),18-29,2,0.02%
+Germany,Database Security Administrator,30-49,2,0.02%
+Germany,Oracle Database Administrator (Oracle DBA),18-29,2,0.02%
+Belgium,Data Scientist,18-29,2,0.02%
+Netherlands,Data Administrator,30-49,2,0.02%
+Germany,"Naval Tactical Data System--Combat Information Center Watch Officer, General",50-69,2,0.02%
+Netherlands,Oracle Database Administrator (Oracle DBA),50-69,2,0.02%
+Italy,Scientific Database Curator,50-69,2,0.02%
+Italy,Clinical Data Management Manager (CDM Manager),30-49,2,0.02%
+Great Britain,Internet Database Specialist,18-29,2,0.02%
+Great Britain,Data Administrator,18-29,2,0.02%
+Poland,Data Processing Auditor,18-29,2,0.02%
+Italy,Automatic Data Processing Planner,30-49,2,0.02%
+Spain,Database Administration Associate,18-29,2,0.02%
+Great Britain,Head of Information Systems and Data Processing,18-29,2,0.02%
+Great Britain,Data Acquisition Technician,30-49,2,0.02%
+Finland,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,2,0.02%
+Portugal,Data Officer,50-69,2,0.02%
+Finland,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,2,0.02%
+Great Britain,Computer or Data Processing Systems Consultant,18-29,2,0.02%
+Sweden,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,2,0.02%
+Netherlands,Database Security Expert,50-69,2,0.02%
+Poland,Data Processing Auditor,50-69,2,0.02%
+Great Britain,Marketing Database Analyst,30-49,2,0.02%
+Spain,Data Warehousing Manager,50-69,2,0.02%
+Hungary,Data Warehouse Specialist,18-29,2,0.02%
+Netherlands,Database Software Technician,30-49,2,0.02%
+Portugal,Data Processing Manager,30-49,2,0.02%
+Great Britain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,2,0.02%
+Spain,Data Warehousing Manager,30-49,2,0.02%
+Italy,Clinical Data Associate,30-49,2,0.02%
+Great Britain,Automatic Data Processing Planner (ADP Planner),30-49,2,0.02%
+Germany,Database Marketing Analyst,18-29,2,0.02%
+Poland,Data Communications Software Consultant,30-49,2,0.02%
+Germany,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",30-49,2,0.02%
+Spain,Data Processing Systems Project Planner,30-49,2,0.02%
+Belgium,Data Architect,30-49,2,0.02%
+Portugal,Data Security Analyst,50-69,2,0.02%
+Belgium,Database Designer,30-49,2,0.02%
+Croatia,Database Security Administrator,30-49,2,0.02%
+Italy,Data Capture Clerk,50-69,2,0.02%
+Italy,"Operations Officer, Afloat (Naval Tactical Data Systems)",50-69,2,0.02%
+Greece,Micro Computer Data Processor,50-69,2,0.02%
+Germany,Database Specialist,18-29,2,0.02%
+Netherlands,Electronic Data Processing Auditor (EDP Auditor),18-29,2,0.02%
+France,Clinical Data Analyst,50-69,2,0.02%
+Portugal,Database Architect,50-69,2,0.02%
+Italy,Data Coder Operator,30-49,2,0.02%
+Romania,Director of Data Operations,50-69,2,0.02%
+Portugal,Database Consultant,50-69,2,0.02%
+Portugal,Database Coordinator,18-29,2,0.02%
+Italy,Data Coder Operator,50-69,2,0.02%
+Germany,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,2,0.02%
+Romania,Director of Data Operations,30-49,2,0.02%
+Spain,Data Security Analyst,18-29,2,0.02%
+Germany,Database Tester,30-49,2,0.02%
+Italy,"Naval Tactical Data System--Combat Information Center Watch Officer, General",50-69,2,0.02%
+Romania,Databases Software Consultant,50-69,2,0.02%
+Germany,Electronic Data Interchange System Developer (EDI System Developer),18-29,2,0.02%
+Netherlands,Director of Data Operations,30-49,2,0.02%
+Spain,Data Scientist,30-49,2,0.02%
+Germany,Director of Data Operations,30-49,2,0.02%
+Croatia,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,2,0.02%
+Greece,"Naval Tactical Data System--Combat Information Center Watch Officer, General",50-69,2,0.02%
+Sweden,Data Coordinator,50-69,2,0.02%
+Spain,Data Reduction Technician,50-69,2,0.02%
+France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,2,0.02%
+Denmark,Survey Data Technician,50-69,2,0.02%
+Croatia,Database Modeler,50-69,2,0.02%
+Belgium,Data Scientist,50-69,2,0.02%
+Portugal,Data Security Analyst,30-49,2,0.02%
+Germany,Datastage Developer,30-49,2,0.02%
+Great Britain,"Naval Tactical Data System--Combat Information Center Watch Officer, General",30-49,2,0.02%
+Germany,Marketing Database Analyst,50-69,2,0.02%
+Netherlands,Field Artillery Automated Tactical Data System Specialist,50-69,2,0.02%
+Great Britain,SQL Database Administrator,30-49,2,0.02%
+Portugal,Database Manager,18-29,2,0.02%
+Portugal,Data Warehouse Analyst,50-69,2,0.02%
+Portugal,Data Warehouse Architect,50-69,2,0.02%
+Greece,Oracle Database Administrator (Oracle DBA),50-69,2,0.02%
+Italy,Data Architect,30-49,2,0.02%
+Germany,Internet Database Specialist,18-29,2,0.02%
+Croatia,Data Systems Manager,50-69,2,0.02%
+Italy,Oracle Database Administrator (Oracle DBA),50-69,2,0.02%
+Germany,Head of Information Systems and Data Processing,18-29,2,0.02%
+Netherlands,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,2,0.02%
+Italy,Data Communications Software Consultant,30-49,2,0.02%
+Spain,Data Transcriber,50-69,2,0.02%
+Spain,Data Reduction Technician,30-49,2,0.02%
+France,Clinical Trials Data Coordinator,50-69,2,0.02%
+Spain,Data Technician,50-69,2,0.02%
+Poland,Data Warehouse Developer,18-29,2,0.02%
+Denmark,Oracle Database Administrator (Oracle DBA),50-69,2,0.02%
+Spain,Data Storage Specialist,50-69,2,0.02%
+France,Data Warehouse Architect,30-49,2,0.02%
+Portugal,Data Management Associate,50-69,2,0.02%
+Great Britain,Data Analysis Assistant,50-69,2,0.02%
+Poland,Data Base Design Analyst,50-69,2,0.02%
+Poland,Head of Information Systems and Data Processing,50-69,2,0.02%
+Slovakia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,2,0.02%
+Bulgaria,Data Warehouse Developer,50-69,2,0.02%
+Great Britain,Database Administration Associate,30-49,2,0.02%
+Bulgaria,Data Warehouse Architect,30-49,2,0.02%
+Great Britain,Database Administration Project Manager,50-69,2,0.02%
+Ireland,Data Processing Consultant,50-69,2,0.02%
+Belgium,Data Warehousing Manager,50-69,2,0.02%
+Great Britain,Database Analyst,50-69,2,0.02%
+Latvia,Unemployed,50-69,2,0.02%
+Great Britain,Database Architect,18-29,2,0.02%
+Great Britain,Database Architect,30-49,2,0.02%
+Finland,Data Processing Auditor,18-29,2,0.02%
+Slovakia,Computer or Data Processing Systems Consultant,30-49,2,0.02%
+Poland,Data Specialist,30-49,2,0.02%
+Belgium,Database Administration Associate,50-69,2,0.02%
+Spain,Database Administration Manager,30-49,2,0.02%
+Spain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,2,0.02%
+Poland,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,2,0.02%
+Spain,Database Development Project Manager,30-49,2,0.02%
+Great Britain,Data Storage Specialist,30-49,2,0.02%
+Great Britain,Data Systems Manager,30-49,2,0.02%
+Latvia,Data Warehousing Engineer,30-49,2,0.02%
+Luxembourg,Unemployed,18-29,2,0.02%
+Poland,Data Systems Manager,50-69,2,0.02%
+Great Britain,Data Warehousing Engineer,50-69,2,0.02%
+Bulgaria,Database Administration Associate,30-49,2,0.02%
+Sweden,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,2,0.02%
+Poland,SQL Database Administrator,18-29,2,0.02%
+Bulgaria,Data Warehousing Specialist,50-69,2,0.02%
+Spain,Database Modeler,50-69,2,0.02%
+Great Britain,Data Warehousing Engineer,30-49,2,0.02%
+Ireland,Data Processing Auditor,50-69,2,0.02%
+Great Britain,Database Coordinator,30-49,2,0.02%
+Belgium,Data Warehouse Specialist,30-49,2,0.02%
+Hungary,Data Processing Services Sales Representative,50-69,2,0.02%
+Poland,Data Sciences Director,30-49,2,0.02%
+Poland,Data Processing Systems Analyst,18-29,2,0.02%
+Poland,Data Administrator,30-49,2,0.02%
+Poland,LiDAR Data Analyst,50-69,2,0.02%
+Great Britain,Database Software Technician,50-69,2,0.02%
+Slovakia,Data Processing Auditor,18-29,2,0.02%
+Hungary,Data Miner,18-29,2,0.02%
+Finland,Data Officer,50-69,2,0.02%
+Great Britain,Electronic Data Processing Auditor (EDP Auditor),50-69,2,0.02%
+Hungary,Data Modeling Specialist,30-49,2,0.02%
+Poland,Marketing Database Analyst,30-49,2,0.02%
+Slovakia,Data Processing Systems Project Planner,50-69,2,0.02%
+Poland,Data Processing Systems Analyst,50-69,2,0.02%
+Great Britain,Director of Data Operations,30-49,2,0.02%
+Poland,Data Administrator,18-29,2,0.02%
+Great Britain,Database Modeler,30-49,2,0.02%
+Poland,Data Scientist,50-69,2,0.02%
+Spain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,2,0.02%
+Slovakia,Data Management Associate,18-29,2,0.02%
+Great Britain,Database Manager,30-49,2,0.02%
+Great Britain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,2,0.02%
+Great Britain,Database Management System Specialist (DBMS Specialist),30-49,2,0.02%
+Bulgaria,Data Processing Auditor,50-69,2,0.02%
+Austria,Automatic Data Processing Planner,50-69,2,0.02%
+Spain,Database Tester,50-69,2,0.02%
+Poland,"Naval Tactical Data System--Combat Information Center Watch Officer, General",30-49,2,0.02%
+Ireland,Data Management Associate,50-69,2,0.02%
+Austria,Computer or Data Processing Systems Consultant,50-69,2,0.02%
+Poland,Data Security Administrator,30-49,2,0.02%
+Spain,Database Specialist,50-69,2,0.02%
+Hungary,Data Coordinator,50-69,2,0.02%
+Spain,Database Design Analyst,50-69,2,0.02%
+Hungary,Data Processing Systems Analyst,50-69,2,0.02%
+Spain,Database Design Analyst,30-49,2,0.02%
+Ireland,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,2,0.02%
+Romania,Geographic Information Systems Data Manager (GIS Data Manager),50-69,2,0.02%
+Poland,Analytical Data Miner,50-69,2,0.02%
+Bulgaria,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",50-69,2,0.02%
+Hungary,Internet Database Specialist,50-69,2,0.02%
+Poland,Data Capture Specialist,50-69,2,0.02%
+Great Britain,Data Examination Clerk,30-49,2,0.02%
+Finland,Databases Computer Consultant,50-69,2,0.02%
+Portugal,Data Capture Clerk,50-69,2,0.02%
+Finland,Database Tester,30-49,2,0.02%
+Portugal,Data Communications Analyst,30-49,2,0.02%
+Great Britain,Data Management Associate,18-29,2,0.02%
+Great Britain,Data Management Associate,50-69,2,0.02%
+Poland,Automatic Data Processing Planner,18-29,2,0.02%
+Great Britain,Data Management Information Technology Specialist,30-49,2,0.02%
+Great Britain,Data Entry Associate,50-69,2,0.02%
+Spain,Flight Test Data Acquisition Technician,18-29,2,0.02%
+Bulgaria,SQL Database Administrator,30-49,2,0.02%
+Belgium,Data Management Information Technology Specialist,50-69,2,0.02%
+Great Britain,Data Compiler,30-49,2,0.02%
+Great Britain,Data Communications Software Consultant,30-49,2,0.02%
+Poland,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,2,0.02%
+Germany,Database Management System Specialist (DBMS Specialist),18-29,2,0.02%
+Great Britain,Data Communications Analyst,50-69,2,0.02%
+Great Britain,Data Communications Analyst,30-49,2,0.02%
+Poland,Data Warehouse Architect,50-69,2,0.02%
+Sweden,Computer or Data Processing Systems Consultant,50-69,2,0.02%
+Italy,Weight in Motion Field Data Collection Technician,50-69,2,0.02%
+Great Britain,Data Base Design Analyst,50-69,2,0.02%
+Poland,Data Processing Consultant,30-49,2,0.02%
+Great Britain,Data Architect,18-29,2,0.02%
+Italy,Voice and Data Technician,50-69,2,0.02%
+Poland,Automatic Data Processing Planner,30-49,2,0.02%
+Portugal,Data Base Design Analyst,50-69,2,0.02%
+Bulgaria,Data Administrator,18-29,2,0.02%
+Romania,Oracle Database Administrator (Oracle DBA),30-49,2,0.02%
+Hungary,Data Storage Specialist,50-69,2,0.02%
+Poland,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,2,0.02%
+Great Britain,Geographic Information Systems Data Manager (GIS Data Manager),30-49,2,0.02%
+Bulgaria,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,2,0.02%
+Great Britain,Data Processing Systems Analyst,30-49,2,0.02%
+Spain,Scientific Database Curator,50-69,2,0.02%
+Poland,Data Processing Manager,30-49,2,0.02%
+Portugal,Data Architect,30-49,2,0.02%
+Great Britain,Data Processor,30-49,2,0.02%
+Poland,Clinical Data Analyst,50-69,2,0.02%
+Portugal,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,2,0.02%
+Great Britain,Data Reviewer,30-49,2,0.02%
+Finland,Database Administration Manager,50-69,2,0.02%
+Ireland,Data Systems Manager,50-69,2,0.02%
+Poland,Automatic Data Processing Planner (ADP Planner),30-49,2,0.02%
+Great Britain,Geographic Information Systems Data Manager (GIS Data Manager),50-69,2,0.02%
+Spain,Database Consultant,50-69,2,0.02%
+Ireland,Database Tester,30-49,2,0.02%
+Spain,Database Architect,30-49,2,0.02%
+Portugal,Computer or Data Processing Systems Consultant,50-69,2,0.02%
+Poland,Automatic Data Processing Planner,50-69,2,0.02%
+Great Britain,Data Processing Auditor,30-49,2,0.02%
+Bulgaria,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,2,0.02%
+Portugal,Data Administrator,30-49,2,0.02%
+Netherlands,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,2,0.02%
+Netherlands,Automatic Data Processing Planner,50-69,2,0.02%
+Bulgaria,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,2,0.02%
+Bulgaria,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,2,0.02%
+Hungary,Automatic Data Processing Planner (ADP Planner),50-69,2,0.02%
+Great Britain,Data Modeler,50-69,2,0.02%
+Romania,Head of Information Systems and Data Processing,30-49,2,0.02%
+Cyprus,Unemployed,18-29,2,0.02%
+Czechia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,2,0.02%
+Cyprus,Unemployed,30-49,2,0.02%
+France,Data Processing Consultant,30-49,2,0.02%
+Romania,Data Entry Technician,50-69,2,0.02%
+France,SCADA Operator (Supervisory Control and Data Acquisition Operator),50-69,2,0.02%
+Romania,Data Input Clerk,50-69,2,0.02%
+France,Oracle Database Administrator (Oracle DBA),18-29,2,0.02%
+Czechia,Database Security Expert,30-49,2,0.02%
+Greece,Database Manager,30-49,2,0.02%
+Romania,Data Management Associate,30-49,2,0.02%
+Greece,Data Security Administrator,30-49,2,0.02%
+Romania,Data Management Information Technology Specialist,30-49,2,0.02%
+France,Medical Data Analyst,50-69,2,0.02%
+Greece,Data Security Analyst,50-69,2,0.02%
+Romania,Data Miner,50-69,2,0.02%
+Poland,Database Architect,30-49,2,0.02%
+Romania,Data Modeler,50-69,2,0.02%
+France,Data Processing Consultant,50-69,2,0.02%
+Poland,Database Consultant,18-29,2,0.02%
+France,Internet Database Specialist,30-49,2,0.02%
+Czechia,Database Tester,50-69,2,0.02%
+France,Head of Information Systems and Data Processing,18-29,2,0.02%
+Czechia,Databases Computer Consultant,50-69,2,0.02%
+Sweden,Database Coordinator,50-69,2,0.02%
+France,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,2,0.02%
+France,Geographic Information Systems Database Administrator (GIS Database Administrator),18-29,2,0.02%
+France,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,2,0.02%
+Greece,Database Engineer,50-69,2,0.02%
+France,Geographic Information Systems Data Manager (GIS Data Manager),30-49,2,0.02%
+Romania,Database Administration Associate,30-49,2,0.02%
+France,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,2,0.02%
+Poland,Database Manager,50-69,2,0.02%
+France,Field Traffic Data Technician,30-49,2,0.02%
+Belgium,Database Tester,30-49,2,0.02%
+Italy,Data Warehousing Engineer,30-49,2,0.02%
+France,SQL Database Administrator,30-49,2,0.02%
+Netherlands,Data Security Analyst,50-69,2,0.02%
+Germany,Customer Data Technician,50-69,2,0.02%
+Italy,Data Storage Specialist,18-29,2,0.02%
+Germany,Computer or Data Processing Systems Consultant,18-29,2,0.02%
+Belgium,Director of Data Operations,30-49,2,0.02%
+Spain,Data Base Design Analyst,50-69,2,0.02%
+Spain,Data Processing Supervisor,50-69,2,0.02%
+Greece,Data Modeling Specialist,30-49,2,0.02%
+Germany,Clinical Data Management Associate Director,50-69,2,0.02%
+Sweden,Data Typist,50-69,2,0.02%
+Italy,Data Warehouse Analyst,30-49,2,0.02%
+Romania,Data Collection Technician,50-69,2,0.02%
+Germany,Clinical Data Analyst,50-69,2,0.02%
+Germany,Clinical Data Abstractor,50-69,2,0.02%
+Germany,Clinical Data Abstractor,30-49,2,0.02%
+Denmark,Database Development and Administration Project Manager,50-69,2,0.02%
+Germany,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,2,0.02%
+Denmark,Database Coordinator,30-49,2,0.02%
+Spain,Data Base Design Analyst,30-49,2,0.02%
+Germany,Automatic Data Processing Planner (ADP Planner),18-29,2,0.02%
+Spain,Data Base Design Analyst,18-29,2,0.02%
+Greece,Data Processing Consultant,50-69,2,0.02%
+Italy,Electronic Data Processing Auditor (EDP Auditor),30-49,2,0.02%
+France,Data Operations Director,50-69,2,0.02%
+Romania,Database Analyst,30-49,2,0.02%
+Romania,Data Coordinator,30-49,2,0.02%
+Spain,Data Architect,30-49,2,0.02%
+Czechia,Database Security Administrator,50-69,2,0.02%
+Belgium,Data Security Analyst,50-69,2,0.02%
+Poland,Database Modeler,50-69,2,0.02%
+Italy,Database Analyst,30-49,2,0.02%
+Romania,Data Processing Auditor,30-49,2,0.02%
+Romania,Database Architect,50-69,2,0.02%
+France,Database Analyst,30-49,2,0.02%
+Sweden,Database Security Administrator,30-49,2,0.02%
+Romania,Data Warehousing Engineer,30-49,2,0.02%
+Romania,Data Security Administrator,50-69,2,0.02%
+France,Database Designer,30-49,2,0.02%
+France,Database Design Analyst,30-49,2,0.02%
+France,Data Storage Specialist,30-49,2,0.02%
+Italy,Database Specialist,50-69,2,0.02%
+France,Database Coordinator,18-29,2,0.02%
+Denmark,Data Coordinator,50-69,2,0.02%
+Italy,Database Software Technician,18-29,2,0.02%
+Romania,Data Warehouse Developer,30-49,2,0.02%
+France,Database Architect,30-49,2,0.02%
+Denmark,Data Officer,50-69,2,0.02%
+Poland,Database Consultant,50-69,2,0.02%
+Spain,Naval Tactical Data System--Combat Information Center Officer,50-69,2,0.02%
+France,Data Processing Systems Project Planner,30-49,2,0.02%
+France,Database Administration Manager,30-49,2,0.02%
+France,Database Administration Associate,30-49,2,0.02%
+Italy,Database Security Expert,30-49,2,0.02%
+Romania,Data Storage Specialist,50-69,2,0.02%
+France,Data Warehousing Specialist,30-49,2,0.02%
+Belgium,Database Manager,30-49,2,0.02%
+Italy,Database Manager,30-49,2,0.02%
+Austria,Data Warehousing Engineer,50-69,2,0.02%
+Italy,Database Marketing Analyst,30-49,2,0.02%
+France,Data Warehousing Engineer,18-29,2,0.02%
+France,Data Warehouse Specialist,18-29,2,0.02%
+Denmark,Data Processing Consultant,50-69,2,0.02%
+Austria,Data Warehousing Engineer,18-29,2,0.02%
+Italy,Database Programmer,50-69,2,0.02%
+Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,2,0.02%
+Italy,Database Tester,18-29,2,0.02%
+Romania,Data Processor,50-69,2,0.02%
+Denmark,Automatic Data Processing Planner (ADP Planner),50-69,2,0.02%
+Sweden,Database Design Analyst,30-49,2,0.02%
+Sweden,Database Designer,50-69,2,0.02%
+France,Electronic Data Interchange System Developer (EDI System Developer),30-49,2,0.02%
+Czechia,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,2,0.02%
+Spain,Clinical Data Manager,50-69,2,0.02%
+Romania,Data Warehousing Specialist,30-49,2,0.02%
+Czechia,Head of Information Systems and Data Processing,30-49,2,0.02%
+Greece,Data Warehouse Developer,50-69,2,0.02%
+France,Databases Software Consultant,50-69,2,0.02%
+Netherlands,Data Processing Consultant,50-69,2,0.02%
+Italy,Databases Software Consultant,30-49,2,0.02%
+Spain,Clinical Data Management Manager (CDM Manager),50-69,2,0.02%
+Greece,Data Warehouse Specialist,30-49,2,0.02%
+Czechia,Internet Database Specialist,50-69,2,0.02%
+Poland,Database Consultant,30-49,2,0.02%
+Netherlands,Data Processing Systems Analyst,30-49,2,0.02%
+Sweden,Database Development and Administration Project Manager,30-49,2,0.02%
+Denmark,Data Warehouse Architect,50-69,2,0.02%
+France,Data Scientist,18-29,2,0.02%
+Italy,Database Designer,30-49,2,0.02%
+France,Database Security Administrator,30-49,2,0.02%
+Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,2,0.02%
+France,Database Programmer,50-69,2,0.02%
+Czechia,Oracle Database Administrator (Oracle DBA),50-69,2,0.02%
+Poland,Data Management Associate,30-49,2,0.02%
+Romania,Data Processing Systems Project Planner,30-49,2,0.02%
+Poland,Data Management Associate,50-69,2,0.02%
+Italy,Database Development Project Manager,50-69,2,0.02%
+Italy,Database Tester,30-49,2,0.02%
+Sweden,Database Specialist,50-69,2,0.02%
+Poland,Data Miner,18-29,2,0.02%
+Spain,Data Processing Equipment Repairer,30-49,2,0.02%
+Italy,Data Processing Manager,30-49,2,0.02%
+Poland,Data Warehousing Specialist,50-69,2,0.02%
+Poland,Database Administration Associate,30-49,2,0.02%
+Italy,Data Modeling Specialist,18-29,2,0.02%
+Germany,Data Sciences Director,50-69,2,0.02%
+Italy,Data Modeling Specialist,30-49,2,0.02%
+Germany,Database Administrator (DBA),30-49,2,0.02%
+Poland,Database Tester,18-29,2,0.02%
+Italy,Data Officer,18-29,2,0.02%
+Germany,Data Processor,50-69,2,0.02%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),18-29,2,0.02%
+Italy,Data Operations Director,30-49,2,0.02%
+Italy,Data Operations Director,50-69,2,0.02%
+Germany,Database Administrator (DBA),50-69,2,0.02%
+Italy,Data Processing Auditor,18-29,2,0.02%
+Hungary,Database Coordinator,50-69,2,0.02%
+Greece,Data Administrator,50-69,2,0.02%
+Greece,Data Architect,50-69,2,0.02%
+Germany,Data Processing Services Sales Representative,50-69,2,0.02%
+Germany,Database Analyst,18-29,2,0.02%
+Germany,Data Processing Manager,30-49,2,0.02%
+France,Data Communications Software Consultant,30-49,2,0.02%
+Czechia,Data Processing Systems Analyst,30-49,2,0.02%
+Czechia,Data Administrator,50-69,2,0.02%
+Austria,Data Coordinator,50-69,2,0.02%
+Czechia,Data Processing Systems Project Planner,50-69,2,0.02%
+Belgium,Data Security Administrator,50-69,2,0.02%
+Spain,Data Processing Consultant,50-69,2,0.02%
+Netherlands,Database Manager,50-69,2,0.02%
+Czechia,Data Operations Director,50-69,2,0.02%
+France,Data Collection Technician,50-69,2,0.02%
+Portugal,Electronic Data Interchange System Developer (EDI System Developer),30-49,2,0.02%
+Italy,Health Data Analyst,30-49,2,0.02%
+Netherlands,Database Designer,50-69,2,0.02%
+Italy,Data Entry Representative,50-69,2,0.02%
+Germany,Data Warehousing Engineer,30-49,2,0.02%
+France,Data Administrator,30-49,2,0.02%
+Germany,Data Warehouse Specialist,18-29,2,0.02%
+Romania,Database Security Administrator,30-49,2,0.02%
+Greece,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,2,0.02%
+Belgium,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,2,0.02%
+Greece,Automatic Data Processing Planner (ADP Planner),50-69,2,0.02%
+Spain,Data Modeling Specialist,30-49,2,0.02%
+Greece,Clinical Data Abstractor,50-69,2,0.02%
+Hungary,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,2,0.02%
+Germany,Database Administration Project Manager,18-29,2,0.02%
+Belgium,Automatic Data Processing Planner,50-69,2,0.02%
+Germany,Data Typist,50-69,2,0.02%
+Portugal,Electronic Data Processing Auditor (EDP Auditor),30-49,2,0.02%
+Belgium,Geographic Information Systems Data Manager (GIS Data Manager),50-69,2,0.02%
+Greece,Clinical Data Management Manager (CDM Manager),50-69,2,0.02%
+Spain,Data Processing Clerk,50-69,2,0.02%
+Portugal,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,2,0.02%
+Greece,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,2,0.02%
+Italy,Data Miner,18-29,2,0.02%
+Netherlands,Database Consultant,50-69,2,0.02%
+Poland,Data Warehousing Specialist,30-49,2,0.02%
+Portugal,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,2,0.02%
+Czechia,Computer or Data Processing Systems Consultant,50-69,2,0.02%
+Germany,Data Processing Auxiliary Equipment Operator,30-49,2,0.02%
+Italy,Flight Data Technician,30-49,2,0.02%
+Romania,Clinical Data Manager,30-49,2,0.02%
+Netherlands,Database Modeler,50-69,2,0.02%
+Belgium,Clinical Data Associate,50-69,2,0.02%
+Greece,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,2,0.02%
+Romania,Computer or Data Processing Systems Consultant,30-49,2,0.02%
+Poland,Database Administration Manager,50-69,2,0.02%
+Czechia,Automatic Data Processing Planner,50-69,2,0.02%
+Italy,Data Scientist,50-69,2,0.02%
+Germany,Data Compiler,50-69,2,0.02%
+Germany,Data Communications Software Consultant,18-29,2,0.02%
+Belgium,Health Data Analyst,50-69,2,0.02%
+Denmark,Database Security Expert,50-69,2,0.02%
+Germany,Data Communications Analyst,18-29,2,0.02%
+Spain,Data Communications Technician,50-69,2,0.02%
+Czechia,Data Warehousing Manager,30-49,2,0.02%
+France,Data Management Information Technology Specialist,30-49,2,0.02%
+Netherlands,Data Warehouse Specialist,50-69,2,0.02%
+France,Data Management Information Technology Specialist,50-69,2,0.02%
+Poland,Database Security Administrator,18-29,2,0.02%
+Italy,Data Security Analyst,30-49,2,0.02%
+Germany,Data Base Design Analyst,18-29,2,0.02%
+Germany,Database Engineer,30-49,2,0.02%
+Hungary,Database Consultant,30-49,2,0.02%
+Germany,Data Architect,18-29,2,0.02%
+France,Data Miner,30-49,2,0.02%
+Czechia,Database Architect,30-49,2,0.02%
+Spain,LiDAR Data Analyst,50-69,2,0.02%
+Czechia,Database Consultant,30-49,2,0.02%
+Germany,Data Processing Auditor,30-49,2,0.02%
+Poland,Datastage Developer,30-49,2,0.02%
+Poland,Data Coordinator,30-49,2,0.02%
+Spain,Internet Database Specialist,50-69,2,0.02%
+Romania,Database Management System Specialist (DBMS Specialist),18-29,2,0.02%
+Spain,Data Entry Machine Operator,50-69,2,0.02%
+Germany,Database Consultant,18-29,2,0.02%
+Czechia,Data Storage Specialist,50-69,2,0.02%
+Greece,Data Communications Software Consultant,30-49,2,0.02%
+Poland,Data Processing Systems Project Planner,30-49,2,0.02%
+Germany,Data Modeling Specialist,18-29,2,0.02%
+Greece,Databases Computer Consultant,30-49,2,0.02%
+Netherlands,Database Administration Associate,50-69,2,0.02%
+Austria,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,2,0.02%
+Greece,Database Tester,30-49,2,0.02%
+Germany,Database Coordinator,18-29,2,0.02%
+Spain,Health Data Analyst,50-69,2,0.02%
+Slovakia,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,2,0.02%
+Hungary,Databases Software Consultant,50-69,2,0.02%
+Romania,Automatic Data Processing Planner,50-69,2,0.02%
+Great Britain,Electronic Data Processing Auditor (EDP Auditor),30-49,2,0.02%
+Poland,Data Modeling Specialist,50-69,2,0.02%
+Romania,Automatic Data Processing Planner (ADP Planner),50-69,2,0.02%
+Italy,Data Processing Systems Project Planner,18-29,2,0.02%
+Spain,Data Processing Equipment Repairer,50-69,2,0.02%
+Germany,Data Input Clerk,50-69,2,0.02%
+Poland,Database Coordinator,30-49,2,0.02%
+Romania,Business Database Analyst,50-69,2,0.02%
+Romania,Database Designer,30-49,2,0.02%
+Netherlands,Database Marketing Analyst,30-49,2,0.02%
+Poland,Data Communications Software Consultant,18-29,1,0.01%
+Poland,Data Communications Technician,30-49,1,0.01%
+Poland,Data Management Associate,18-29,1,0.01%
+Poland,Data Capture Specialist,30-49,1,0.01%
+Spain,Voice and Data Technician,18-29,1,0.01%
+Poland,Data Collector,30-49,1,0.01%
+Poland,Data Entry Operator,50-69,1,0.01%
+Poland,Data Entry Representative,50-69,1,0.01%
+Poland,Data Processing Clerk,50-69,1,0.01%
+Poland,Data Entry Associate,50-69,1,0.01%
+Poland,Data Entry Specialist,50-69,1,0.01%
+Poland,Data Center Operator,30-49,1,0.01%
+Poland,Data Coder Operator,30-49,1,0.01%
+Poland,Data Entry Supervisor,50-69,1,0.01%
+Poland,Data Entry Technician,18-29,1,0.01%
+Poland,Data Processing Control Clerk,30-49,1,0.01%
+Poland,Data Entry Technician,50-69,1,0.01%
+Poland,Data Processing Equipment Repairer,50-69,1,0.01%
+Poland,Data Capture Clerk,50-69,1,0.01%
+Spain,Survey Data Technician,18-29,1,0.01%
+Poland,Data Capture Clerk,18-29,1,0.01%
+Poland,Data Processing Manager,18-29,1,0.01%
+Poland,Data Control Assistant,50-69,1,0.01%
+Poland,Data Management Manager,50-69,1,0.01%
+Poland,Data Base Design Analyst,30-49,1,0.01%
+Poland,Data Compiler,50-69,1,0.01%
+Poland,Data Examination Clerk,50-69,1,0.01%
+Poland,Data Processing Supervisor,50-69,1,0.01%
+Poland,Data Compiler,30-49,1,0.01%
+Poland,Data Officer,18-29,1,0.01%
+Poland,Data Input Clerk,30-49,1,0.01%
+Poland,Data Communications Technician,50-69,1,0.01%
+Poland,Data Management Information Technology Specialist,18-29,1,0.01%
+Slovakia,Data Security Analyst,18-29,1,0.01%
+Spain,Voice and Data Technician,50-69,1,0.01%
+Sweden,Geographic Information Systems Data Manager (GIS Data Manager),50-69,1,0.01%
+Netherlands,Data Miner,50-69,1,0.01%
+Netherlands,Data Miner,30-49,1,0.01%
+Sweden,Database Software Technician,50-69,1,0.01%
+Netherlands,Data Manager,50-69,1,0.01%
+Netherlands,Data Management Information Technology Specialist,50-69,1,0.01%
+Netherlands,Data Management Information Technology Specialist,30-49,1,0.01%
+Netherlands,Data Management Associate,18-29,1,0.01%
+Netherlands,Data Examination Clerk,50-69,1,0.01%
+Netherlands,Data Entry Supervisor,30-49,1,0.01%
+Netherlands,Data Entry Associate,50-69,1,0.01%
+Netherlands,Data Coordinator,30-49,1,0.01%
+Netherlands,Data Control Clerk Supervisor,50-69,1,0.01%
+Netherlands,Data Control Clerk Supervisor,30-49,1,0.01%
+Netherlands,Data Control Assistant,50-69,1,0.01%
+Sweden,Database Tester,50-69,1,0.01%
+Sweden,Databases Computer Consultant,30-49,1,0.01%
+Sweden,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,1,0.01%
+Sweden,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,1,0.01%
+Netherlands,Data Control Assistant,30-49,1,0.01%
+Netherlands,Data Compiler,50-69,1,0.01%
+Netherlands,Data Communications Software Consultant,50-69,1,0.01%
+Sweden,Database Security Administrator,50-69,1,0.01%
+Netherlands,Data Modeling Specialist,30-49,1,0.01%
+Netherlands,Data Modeling Specialist,50-69,1,0.01%
+Netherlands,Data Processing Mechanic,30-49,1,0.01%
+Netherlands,Data Scientist,50-69,1,0.01%
+Netherlands,Data Scientist,30-49,1,0.01%
+Netherlands,Data Scientist,18-29,1,0.01%
+Sweden,Database Developer,30-49,1,0.01%
+Netherlands,Data Sciences Director,50-69,1,0.01%
+Sweden,Database Development Project Manager,50-69,1,0.01%
+Sweden,Database Development and Administration Project Manager,50-69,1,0.01%
+Sweden,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Netherlands,Data Processing Services Sales Representative,18-29,1,0.01%
+Sweden,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Netherlands,Data Processing Auditor,30-49,1,0.01%
+Sweden,Database Manager,18-29,1,0.01%
+Netherlands,Data Processing Manager,30-49,1,0.01%
+Sweden,Database Manager,50-69,1,0.01%
+Sweden,Database Marketing Analyst,30-49,1,0.01%
+Sweden,Database Marketing Analyst,50-69,1,0.01%
+Sweden,Database Modeler,18-29,1,0.01%
+Sweden,Database Modeler,50-69,1,0.01%
+Sweden,Database Programmer,18-29,1,0.01%
+Netherlands,Data Processing Control Clerk,50-69,1,0.01%
+Netherlands,Data Communications Analyst,30-49,1,0.01%
+Netherlands,Data Collector,30-49,1,0.01%
+Poland,Data Architect,18-29,1,0.01%
+Netherlands,Data Collection Technician,18-29,1,0.01%
+Luxembourg,Database Security Administrator,30-49,1,0.01%
+Luxembourg,Database Design Analyst,30-49,1,0.01%
+Luxembourg,Data Storage Specialist,50-69,1,0.01%
+Luxembourg,Data Processing Auditor,50-69,1,0.01%
+Luxembourg,Data Conversion Operator,50-69,1,0.01%
+Sweden,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Sweden,SQL Database Administrator,50-69,1,0.01%
+Luxembourg,Data Communications Software Consultant,30-49,1,0.01%
+Luxembourg,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Luxembourg,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,1,0.01%
+Lithuania,Voice and Data Technician,50-69,1,0.01%
+Sweden,Survey Data Technician,50-69,1,0.01%
+Lithuania,SQL Database Administrator,50-69,1,0.01%
+Lithuania,Oracle Database Administrator (Oracle DBA),18-29,1,0.01%
+Lithuania,Maintenance Data Analyst,50-69,1,0.01%
+Lithuania,Internet Database Specialist,50-69,1,0.01%
+Lithuania,Electronic Data Processing Auditor (EDP Auditor),50-69,1,0.01%
+Lithuania,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Lithuania,Director of Data Operations,50-69,1,0.01%
+Lithuania,Databases Software Consultant,50-69,1,0.01%
+Lithuania,Databases Software Consultant,30-49,1,0.01%
+Luxembourg,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,1,0.01%
+Malta,Data Scientist,50-69,1,0.01%
+Malta,Database Coordinator,30-49,1,0.01%
+Netherlands,Clinical Data Manager,50-69,1,0.01%
+Netherlands,Data Center Operator,50-69,1,0.01%
+Netherlands,Data Center Operator,30-49,1,0.01%
+Sweden,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,1,0.01%
+Netherlands,Data Analyst,50-69,1,0.01%
+Netherlands,Data Analysis Assistant,50-69,1,0.01%
+Netherlands,Data Administrator,50-69,1,0.01%
+Sweden,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Netherlands,Computer or Data Processing Systems Consultant,50-69,1,0.01%
+Netherlands,Computer or Data Processing Systems Consultant,30-49,1,0.01%
+Sweden,Head of Information Systems and Data Processing,50-69,1,0.01%
+Malta,Database Coordinator,50-69,1,0.01%
+Sweden,Naval Tactical Data System--Combat Information Center Officer,30-49,1,0.01%
+Netherlands,Clinical Data Associate,50-69,1,0.01%
+Netherlands,Business Database Analyst,50-69,1,0.01%
+Netherlands,Automatic Data Processing Planner,30-49,1,0.01%
+Malta,Unemployed,50-69,1,0.01%
+Malta,Unemployed,30-49,1,0.01%
+Malta,Unemployed,18-29,1,0.01%
+Malta,Internet Database Specialist,50-69,1,0.01%
+Malta,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,1,0.01%
+Netherlands,Data Security Administrator,30-49,1,0.01%
+Netherlands,Data Security Administrator,50-69,1,0.01%
+Sweden,Database Consultant,50-69,1,0.01%
+Sweden,Database Architect,50-69,1,0.01%
+Sweden,Data Acquisition Technician,18-29,1,0.01%
+Sweden,Data Administrator,50-69,1,0.01%
+Sweden,Data Analysis Assistant,50-69,1,0.01%
+Sweden,Data Center Operator,30-49,1,0.01%
+Netherlands,Survey Data Technician,50-69,1,0.01%
+Netherlands,SQL Database Administrator,30-49,1,0.01%
+Netherlands,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,1,0.01%
+Netherlands,SCADA Operator (Supervisory Control and Data Acquisition Operator),50-69,1,0.01%
+Netherlands,Reference Data Expert,30-49,1,0.01%
+Netherlands,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Netherlands,Micro Computer Data Processor,18-29,1,0.01%
+Netherlands,LiDAR Data Analyst,50-69,1,0.01%
+Netherlands,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Netherlands,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Sweden,Data Collection Technician,50-69,1,0.01%
+Netherlands,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,1,0.01%
+Netherlands,GPS Field Data Collector (Global Positioning System Field Data Collector),50-69,1,0.01%
+Sweden,Data Communications Analyst,30-49,1,0.01%
+Sweden,Data Communications Software Consultant,50-69,1,0.01%
+Sweden,Data Conversion Operator,30-49,1,0.01%
+Netherlands,Director of Data Operations,18-29,1,0.01%
+Sweden,Crime Data Specialist,50-69,1,0.01%
+Sweden,Clinical Data Management Manager (CDM Manager),50-69,1,0.01%
+Sweden,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,1,0.01%
+Poland,Clinical Data Management Associate Director,30-49,1,0.01%
+Spain,Weight in Motion Field Data Collection Technician,50-69,1,0.01%
+Poland,Data Acquisition Technician,50-69,1,0.01%
+Poland,Data Acquisition Technician,30-49,1,0.01%
+Poland,Customer Data Technician,30-49,1,0.01%
+Poland,Customer Data Technician,18-29,1,0.01%
+Poland,Computer or Data Processing Systems Consultant,50-69,1,0.01%
+Poland,Clinical Data Specialist,50-69,1,0.01%
+Poland,Clinical Data Management Manager (CDM Manager),50-69,1,0.01%
+Poland,Clinical Data Management Manager (CDM Manager),30-49,1,0.01%
+Poland,Clinical Data Coordinator,50-69,1,0.01%
+Sweden,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Poland,Clinical Data Associate,30-49,1,0.01%
+Poland,Clinical Data Analyst,30-49,1,0.01%
+Poland,Clinical Data Abstractor,50-69,1,0.01%
+Poland,Clinical Data Abstractor,18-29,1,0.01%
+Poland,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Sweden,Automatic Data Processing Planner,30-49,1,0.01%
+Sweden,Automatic Data Processing Planner (ADP Planner),18-29,1,0.01%
+Poland,Analytical Data Miner,18-29,1,0.01%
+Netherlands,Weight in Motion Field Data Collection Technician,50-69,1,0.01%
+Netherlands,Database Tester,50-69,1,0.01%
+Netherlands,Database Tester,30-49,1,0.01%
+Sweden,Data Entry Associate,50-69,1,0.01%
+Netherlands,Data Technician,50-69,1,0.01%
+Netherlands,Data Warehousing Manager,50-69,1,0.01%
+Sweden,Data Scientist,30-49,1,0.01%
+Netherlands,Data Warehousing Manager,30-49,1,0.01%
+Netherlands,Data Warehousing Engineer,30-49,1,0.01%
+Sweden,Data Scientist,50-69,1,0.01%
+Sweden,Data Security Administrator,30-49,1,0.01%
+Sweden,Data Security Analyst,50-69,1,0.01%
+Sweden,Data Systems Manager,50-69,1,0.01%
+Sweden,Data Transcriber,50-69,1,0.01%
+Netherlands,Data Systems Manager,30-49,1,0.01%
+Netherlands,Database Administration Manager,50-69,1,0.01%
+Netherlands,Data Security Analyst,30-49,1,0.01%
+Sweden,Data Warehouse Analyst,30-49,1,0.01%
+Sweden,Data Warehouse Architect,18-29,1,0.01%
+Netherlands,Data Security Analyst,18-29,1,0.01%
+Sweden,Data Warehouse Developer,50-69,1,0.01%
+Sweden,Data Warehouse Specialist,50-69,1,0.01%
+Sweden,Data Warehousing Engineer,30-49,1,0.01%
+Sweden,Data Warehousing Specialist,50-69,1,0.01%
+Sweden,Database Administration Associate,50-69,1,0.01%
+Netherlands,Database Administration Associate,30-49,1,0.01%
+Netherlands,Database Administration Project Manager,50-69,1,0.01%
+Netherlands,Database Specialist,50-69,1,0.01%
+Netherlands,Database Design Analyst,30-49,1,0.01%
+Netherlands,Database Specialist,18-29,1,0.01%
+Netherlands,Database Software Technician,50-69,1,0.01%
+Netherlands,Database Security Administrator,50-69,1,0.01%
+Netherlands,Database Modeler,30-49,1,0.01%
+Sweden,Data Entry Operator,50-69,1,0.01%
+Netherlands,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Netherlands,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Netherlands,Database Development and Administration Project Manager,50-69,1,0.01%
+Netherlands,Database Designer,30-49,1,0.01%
+Sweden,Data Entry Representative,18-29,1,0.01%
+Sweden,Data Reduction Technician,50-69,1,0.01%
+Netherlands,Database Coordinator,50-69,1,0.01%
+Netherlands,Database Consultant,18-29,1,0.01%
+Sweden,Data Management Information Technology Specialist,50-69,1,0.01%
+Sweden,Data Modeler,50-69,1,0.01%
+Sweden,Data Modeling Specialist,50-69,1,0.01%
+Sweden,Data Officer,30-49,1,0.01%
+Sweden,Data Officer,50-69,1,0.01%
+Netherlands,Database Architect,50-69,1,0.01%
+Netherlands,Database Analyst,50-69,1,0.01%
+Poland,Data Processing Systems Analyst,30-49,1,0.01%
+Portugal,Analytical Data Miner,30-49,1,0.01%
+Poland,Data Processing Systems Project Planner,50-69,1,0.01%
+Romania,Data Miner,30-49,1,0.01%
+Romania,Data Sciences Director,50-69,1,0.01%
+Romania,Data Processing Systems Project Planner,18-29,1,0.01%
+Spain,Automatic Data Processing Planner,18-29,1,0.01%
+Spain,Automatic Data Processing Planner (ADP Planner),18-29,1,0.01%
+Spain,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Spain,Business Database Analyst,30-49,1,0.01%
+Romania,Data Processing Systems Analyst,30-49,1,0.01%
+Spain,Business Database Analyst,50-69,1,0.01%
+Spain,Clinical Data Abstractor,50-69,1,0.01%
+Spain,Clinical Data Associate,30-49,1,0.01%
+Spain,Clinical Data Associate,50-69,1,0.01%
+Romania,Data Processing Manager,50-69,1,0.01%
+Romania,Data Processing Consultant,30-49,1,0.01%
+Spain,Clinical Data Management Manager (CDM Manager),30-49,1,0.01%
+Romania,Data Processing Consultant,18-29,1,0.01%
+Spain,Clinical Data Specialist,30-49,1,0.01%
+Romania,Data Processing Auditor,18-29,1,0.01%
+Romania,Data Officer,30-49,1,0.01%
+Spain,Computer or Data Processing Systems Consultant,18-29,1,0.01%
+Romania,Data Modeling Specialist,30-49,1,0.01%
+Spain,Crime Data Specialist,50-69,1,0.01%
+Spain,Data Administrator,30-49,1,0.01%
+Spain,Data Administrator,50-69,1,0.01%
+Spain,Analytical Data Miner,18-29,1,0.01%
+Romania,Data Security Administrator,30-49,1,0.01%
+Slovenia,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Slovenia,Data Processing Systems Analyst,50-69,1,0.01%
+Romania,Data Warehousing Engineer,50-69,1,0.01%
+Slovenia,Data Communications Software Consultant,50-69,1,0.01%
+Romania,Data Warehousing Engineer,18-29,1,0.01%
+Slovenia,Data Management Information Technology Specialist,50-69,1,0.01%
+Slovenia,Data Processing Auditor,30-49,1,0.01%
+Romania,Data Warehouse Specialist,50-69,1,0.01%
+Romania,Data Warehouse Specialist,30-49,1,0.01%
+Romania,Data Warehouse Architect,50-69,1,0.01%
+Romania,Data Warehouse Architect,30-49,1,0.01%
+Romania,Data Warehouse Analyst,50-69,1,0.01%
+Slovenia,Data Security Administrator,30-49,1,0.01%
+Slovenia,Databases Computer Consultant,30-49,1,0.01%
+Slovenia,Data Systems Manager,50-69,1,0.01%
+Slovenia,Data Warehouse Architect,30-49,1,0.01%
+Romania,Data Warehouse Analyst,30-49,1,0.01%
+Slovenia,Data Warehousing Manager,18-29,1,0.01%
+Romania,Data Systems Manager,50-69,1,0.01%
+Slovenia,Database Administration Manager,30-49,1,0.01%
+Romania,Data Systems Manager,30-49,1,0.01%
+Slovenia,Database Developer,30-49,1,0.01%
+Slovenia,Database Modeler,30-49,1,0.01%
+Romania,Data Security Analyst,50-69,1,0.01%
+Romania,Data Modeling Specialist,18-29,1,0.01%
+Romania,Data Management Manager,30-49,1,0.01%
+Romania,Data Warehousing Manager,30-49,1,0.01%
+Romania,Data Management Associate,18-29,1,0.01%
+Romania,Customer Data Technician,50-69,1,0.01%
+Romania,Crime Data Specialist,50-69,1,0.01%
+Spain,Data Compiler,50-69,1,0.01%
+Romania,Computer or Data Processing Systems Consultant,18-29,1,0.01%
+Romania,Clinical Data Associate,50-69,1,0.01%
+Romania,Clinical Data Associate,30-49,1,0.01%
+Romania,Clinical Data Analyst,50-69,1,0.01%
+Romania,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Romania,Automatic Data Processing Planner,30-49,1,0.01%
+Spain,Data Control Clerk Supervisor,50-69,1,0.01%
+Romania,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,1,0.01%
+Spain,Data Conversion Operator,50-69,1,0.01%
+Romania,Analytical Data Miner,50-69,1,0.01%
+Spain,Data Coordinator,18-29,1,0.01%
+Spain,Data Entry Associate,50-69,1,0.01%
+Spain,Data Entry Machine Operator,30-49,1,0.01%
+Spain,Data Entry Operator,30-49,1,0.01%
+Spain,Data Entry Representative,50-69,1,0.01%
+Spain,Data Entry Specialist,50-69,1,0.01%
+Spain,Data Entry Supervisor,50-69,1,0.01%
+Portugal,SQL Database Administrator,50-69,1,0.01%
+Portugal,SQL Database Administrator,30-49,1,0.01%
+Portugal,Oracle Database Administrator (Oracle DBA),50-69,1,0.01%
+Romania,Data Abstractor,50-69,1,0.01%
+Romania,Data Administrator,18-29,1,0.01%
+Romania,Data Administrator,30-49,1,0.01%
+Romania,Data Communications Software Consultant,50-69,1,0.01%
+Spain,Data Analysis Assistant,50-69,1,0.01%
+Romania,Data Entry Supervisor,50-69,1,0.01%
+Romania,Data Entry Specialist,50-69,1,0.01%
+Romania,Data Entry Representative,50-69,1,0.01%
+Romania,Data Entry Operator,30-49,1,0.01%
+Romania,Data Entry Clerk,50-69,1,0.01%
+Romania,Data Coordinator,50-69,1,0.01%
+Spain,Data Analyst,30-49,1,0.01%
+Romania,Data Compiler,50-69,1,0.01%
+Spain,Data Architect,18-29,1,0.01%
+Romania,Data Communications Analyst,30-49,1,0.01%
+Spain,Data Communications Analyst,30-49,1,0.01%
+Romania,Data Coder Operator,50-69,1,0.01%
+Romania,Data Center Operator,50-69,1,0.01%
+Romania,Data Center Operator,18-29,1,0.01%
+Romania,Data Base Design Analyst,50-69,1,0.01%
+Romania,Data Base Design Analyst,18-29,1,0.01%
+Romania,Data Architect,50-69,1,0.01%
+Spain,Data Collector,18-29,1,0.01%
+Romania,Data Architect,18-29,1,0.01%
+Romania,Data Analysis Assistant,50-69,1,0.01%
+Romania,Data Analysis Assistant,30-49,1,0.01%
+Romania,Data Warehousing Manager,18-29,1,0.01%
+Romania,Data Warehousing Manager,50-69,1,0.01%
+Poland,Data Recovery Planner,50-69,1,0.01%
+Slovakia,Data Warehouse Analyst,50-69,1,0.01%
+Romania,SQL Database Administrator,30-49,1,0.01%
+Romania,SCADA Technician (Supervisory Control and Data Acquisition Technician),30-49,1,0.01%
+Romania,SCADA Operator (Supervisory Control and Data Acquisition Operator),50-69,1,0.01%
+Romania,Reference Data Expert,50-69,1,0.01%
+Romania,Reference Data Expert,30-49,1,0.01%
+Romania,Naval Tactical Data System--Combat Information Center Officer,30-49,1,0.01%
+Romania,Micro Computer Data Processor,30-49,1,0.01%
+Romania,Medical Data Analyst,50-69,1,0.01%
+Romania,Marketing Database Analyst,18-29,1,0.01%
+Romania,Internet Database Specialist,50-69,1,0.01%
+Romania,Health Data Analyst,30-49,1,0.01%
+Romania,Head of Information Systems and Data Processing,18-29,1,0.01%
+Romania,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Romania,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,1,0.01%
+Romania,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,1,0.01%
+Romania,GPS Field Data Collector (Global Positioning System Field Data Collector),50-69,1,0.01%
+Romania,Field Traffic Data Technician,50-69,1,0.01%
+Romania,Field Traffic Data Technician,30-49,1,0.01%
+Romania,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Romania,Field Artillery Automated Tactical Data System Specialist,18-29,1,0.01%
+Romania,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Romania,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,1,0.01%
+Romania,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,1,0.01%
+Slovakia,Data Transcriber,50-69,1,0.01%
+Slovakia,Data Systems Manager,50-69,1,0.01%
+Slovakia,Data Security Analyst,50-69,1,0.01%
+Slovakia,Data Communications Analyst,30-49,1,0.01%
+Slovakia,Data Reviewer,30-49,1,0.01%
+Slovakia,Data Processing Systems Analyst,18-29,1,0.01%
+Slovakia,Data Processing Manager,18-29,1,0.01%
+Slovakia,Data Processing Consultant,50-69,1,0.01%
+Slovakia,Data Processing Auditor,50-69,1,0.01%
+Slovakia,Data Operations Director,50-69,1,0.01%
+Slovakia,Data Officer,50-69,1,0.01%
+Slovakia,Data Officer,30-49,1,0.01%
+Slovakia,Data Management Information Technology Specialist,30-49,1,0.01%
+Slovakia,Data Conversion Operator,30-49,1,0.01%
+Slovakia,Data Capture Specialist,50-69,1,0.01%
+Romania,Voice and Data Technician,50-69,1,0.01%
+Slovakia,Data Base Design Analyst,30-49,1,0.01%
+Slovakia,Data Administrator,50-69,1,0.01%
+Slovakia,Data Administrator,30-49,1,0.01%
+Slovakia,Data Acquisition Technician,50-69,1,0.01%
+Slovakia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,1,0.01%
+Slovakia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,1,0.01%
+Slovakia,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Slovakia,Automatic Data Processing Planner,50-69,1,0.01%
+Slovakia,Automatic Data Processing Planner,30-49,1,0.01%
+Slovakia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,1,0.01%
+Romania,Electronic Data Processing Auditor (EDP Auditor),18-29,1,0.01%
+Slovakia,Data Warehouse Developer,30-49,1,0.01%
+Slovenia,Data Center Operator,50-69,1,0.01%
+Slovakia,Data Warehouse Specialist,50-69,1,0.01%
+Slovakia,Database Tester,50-69,1,0.01%
+Romania,Database Development and Administration Project Manager,50-69,1,0.01%
+Slovakia,Databases Computer Consultant,50-69,1,0.01%
+Slovakia,Databases Software Consultant,50-69,1,0.01%
+Slovakia,Flight Data Technician,30-49,1,0.01%
+Romania,Database Development and Administration Project Manager,18-29,1,0.01%
+Romania,Database Designer,50-69,1,0.01%
+Romania,Database Design Analyst,50-69,1,0.01%
+Romania,Database Design Analyst,30-49,1,0.01%
+Romania,Database Consultant,18-29,1,0.01%
+Romania,Database Architect,30-49,1,0.01%
+Slovakia,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Romania,Database Architect,18-29,1,0.01%
+Slovakia,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Slovakia,Internet Database Specialist,50-69,1,0.01%
+Romania,Database Analyst,50-69,1,0.01%
+Slovenia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,1,0.01%
+Romania,Database Administration Manager,50-69,1,0.01%
+Romania,Database Administration Manager,18-29,1,0.01%
+Romania,Database Administration Associate,50-69,1,0.01%
+Slovenia,Automatic Data Processing Planner,30-49,1,0.01%
+Slovenia,Clinical Data Associate,50-69,1,0.01%
+Romania,Data Warehousing Specialist,50-69,1,0.01%
+Romania,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Slovakia,Database Specialist,50-69,1,0.01%
+Romania,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Romania,Database Specialist,30-49,1,0.01%
+Slovakia,Data Warehousing Engineer,30-49,1,0.01%
+Slovakia,Data Warehousing Manager,30-49,1,0.01%
+Slovakia,Data Warehousing Specialist,30-49,1,0.01%
+Slovakia,Database Consultant,30-49,1,0.01%
+Romania,Electronic Data Interchange System Developer (EDI System Developer),50-69,1,0.01%
+Romania,Electronic Data Interchange System Developer (EDI System Developer),30-49,1,0.01%
+Romania,Databases Software Consultant,30-49,1,0.01%
+Romania,Databases Computer Consultant,50-69,1,0.01%
+Romania,Databases Computer Consultant,30-49,1,0.01%
+Romania,Database Technician,50-69,1,0.01%
+Slovakia,Database Engineer,50-69,1,0.01%
+Romania,Database Manager,30-49,1,0.01%
+Romania,Database Specialist,18-29,1,0.01%
+Romania,Database Software Technician,30-49,1,0.01%
+Romania,Database Security Expert,50-69,1,0.01%
+Slovakia,Database Management System Specialist (DBMS Specialist),18-29,1,0.01%
+Slovakia,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Slovakia,Database Security Administrator,30-49,1,0.01%
+Romania,Database Programmer,50-69,1,0.01%
+Romania,Database Programmer,18-29,1,0.01%
+Romania,Database Modeler,30-49,1,0.01%
+Romania,Database Manager,50-69,1,0.01%
+Spain,Data Examination Clerk,50-69,1,0.01%
+Portugal,Micro Computer Data Processor,30-49,1,0.01%
+Spain,Data Input Clerk,18-29,1,0.01%
+Spain,Head of Information Systems and Data Processing,30-49,1,0.01%
+Poland,Medical Data Analyst,30-49,1,0.01%
+Spain,Electronic Data Interchange System Developer (EDI System Developer),18-29,1,0.01%
+Poland,Log Data Technician,30-49,1,0.01%
+Poland,LiDAR Data Analyst,30-49,1,0.01%
+Poland,Internet Database Specialist,50-69,1,0.01%
+Poland,Internet Database Specialist,30-49,1,0.01%
+Poland,Geographic Information Systems Database Administrator (GIS Database Administrator),18-29,1,0.01%
+Spain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Spain,Field Artillery Automated Tactical Data System Specialist,30-49,1,0.01%
+Spain,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Spain,Field Traffic Data Technician,30-49,1,0.01%
+Spain,Flight Data Technician,30-49,1,0.01%
+Spain,Flight Test Data Acquisition Technician,50-69,1,0.01%
+Poland,Flight Test Data Acquisition Technician,50-69,1,0.01%
+Poland,Flight Test Data Acquisition Technician,18-29,1,0.01%
+Poland,Field Traffic Data Technician,30-49,1,0.01%
+Poland,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Poland,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,1,0.01%
+Poland,Electronic Data Processing Auditor (EDP Auditor),50-69,1,0.01%
+Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Poland,Electronic Data Interchange System Developer (EDI System Developer),30-49,1,0.01%
+Spain,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,1,0.01%
+Spain,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,1,0.01%
+Spain,Datastage Developer,30-49,1,0.01%
+Poland,Naval Tactical Data System--Combat Information Center Officer,50-69,1,0.01%
+Poland,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",30-49,1,0.01%
+Poland,Survey Data Technician,50-69,1,0.01%
+Portugal,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Portugal,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,1,0.01%
+Portugal,Automatic Data Processing Planner (ADP Planner),50-69,1,0.01%
+Portugal,Automatic Data Processing Planner,30-49,1,0.01%
+Portugal,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,1,0.01%
+Slovakia,Data Security Analyst,30-49,1,0.01%
+Spain,Database Consultant,30-49,1,0.01%
+Poland,Weight in Motion Field Data Collection Technician,50-69,1,0.01%
+Poland,Voice and Data Technician,18-29,1,0.01%
+Spain,Database Developer,30-49,1,0.01%
+Spain,Database Manager,30-49,1,0.01%
+Spain,Databases Computer Consultant,50-69,1,0.01%
+Spain,Database Marketing Analyst,50-69,1,0.01%
+Poland,Scientific Database Curator,30-49,1,0.01%
+Poland,SCADA Operator (Supervisory Control and Data Acquisition Operator),18-29,1,0.01%
+Poland,Reference Data Expert,50-69,1,0.01%
+Poland,Oracle Database Administrator (Oracle DBA),18-29,1,0.01%
+Spain,Database Software Technician,18-29,1,0.01%
+Poland,"Naval Tactical Data System--Combat Information Center Watch Officer, General",50-69,1,0.01%
+Spain,Database Technician,30-49,1,0.01%
+Spain,Database Tester,30-49,1,0.01%
+Poland,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",50-69,1,0.01%
+Spain,Head of Information Systems and Data Processing,18-29,1,0.01%
+Poland,Databases Software Consultant,30-49,1,0.01%
+Portugal,Log Data Technician,50-69,1,0.01%
+Poland,Databases Computer Consultant,18-29,1,0.01%
+Spain,"Operations Officer, Afloat (Naval Tactical Data Systems)",50-69,1,0.01%
+Poland,Database Administration Associate,50-69,1,0.01%
+Poland,Database Administration Associate,18-29,1,0.01%
+Poland,Data Warehousing Specialist,18-29,1,0.01%
+Poland,Data Warehousing Engineer,50-69,1,0.01%
+Poland,Data Warehousing Engineer,30-49,1,0.01%
+Poland,Data Warehousing Engineer,18-29,1,0.01%
+Poland,Data Warehouse Specialist,18-29,1,0.01%
+Spain,Reference Data Expert,30-49,1,0.01%
+Spain,Reference Data Expert,50-69,1,0.01%
+Spain,SCADA Operator (Supervisory Control and Data Acquisition Operator),18-29,1,0.01%
+Poland,Data Warehouse Architect,30-49,1,0.01%
+Poland,Data Warehouse Architect,18-29,1,0.01%
+Poland,Data Warehouse Analyst,30-49,1,0.01%
+Poland,Data Warehouse Analyst,18-29,1,0.01%
+Spain,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,1,0.01%
+Poland,Data Typist,18-29,1,0.01%
+Poland,Data Transcriber,30-49,1,0.01%
+Poland,Data Technician,50-69,1,0.01%
+Poland,Data Systems Manager,18-29,1,0.01%
+Poland,Data Security Analyst,18-29,1,0.01%
+Poland,Data Reviewer,50-69,1,0.01%
+Poland,Data Reduction Technician,18-29,1,0.01%
+Poland,Database Administration Project Manager,50-69,1,0.01%
+Poland,Database Administrator (DBA),30-49,1,0.01%
+Poland,Database Administrator (DBA),50-69,1,0.01%
+Poland,Database Marketing Analyst,50-69,1,0.01%
+Poland,Database Tester,30-49,1,0.01%
+Poland,Database Technician,50-69,1,0.01%
+Poland,Database Specialist,50-69,1,0.01%
+Poland,Database Software Technician,18-29,1,0.01%
+Poland,Database Security Expert,18-29,1,0.01%
+Spain,Internet Database Specialist,30-49,1,0.01%
+Poland,Database Programmer,50-69,1,0.01%
+Poland,Database Programmer,18-29,1,0.01%
+Poland,Database Modeler,30-49,1,0.01%
+Poland,Database Modeler,18-29,1,0.01%
+Poland,Database Manager,18-29,1,0.01%
+Poland,Database Analyst,30-49,1,0.01%
+Poland,Database Engineer,50-69,1,0.01%
+Spain,Maintenance Data Analyst,50-69,1,0.01%
+Spain,Marketing Database Analyst,30-49,1,0.01%
+Spain,Medical Data Analyst,50-69,1,0.01%
+Poland,Database Developer,50-69,1,0.01%
+Poland,Database Developer,18-29,1,0.01%
+Spain,Naval Tactical Data System--Combat Information Center Officer,18-29,1,0.01%
+Poland,Database Architect,50-69,1,0.01%
+Poland,Database Architect,18-29,1,0.01%
+Poland,Database Analyst,50-69,1,0.01%
+Portugal,Clinical Data Coordinator,30-49,1,0.01%
+Portugal,Clinical Data Management Associate Director,30-49,1,0.01%
+Portugal,Clinical Data Manager,50-69,1,0.01%
+Portugal,Clinical Data Specialist,50-69,1,0.01%
+Portugal,Databases Computer Consultant,30-49,1,0.01%
+Portugal,Database Specialist,50-69,1,0.01%
+Portugal,Database Specialist,30-49,1,0.01%
+Portugal,Database Specialist,18-29,1,0.01%
+Spain,Data Processing Manager,30-49,1,0.01%
+Spain,Data Processing Mechanic,50-69,1,0.01%
+Portugal,Database Software Technician,50-69,1,0.01%
+Spain,Data Processing Systems Analyst,18-29,1,0.01%
+Portugal,Database Software Technician,30-49,1,0.01%
+Portugal,Database Marketing Analyst,50-69,1,0.01%
+Portugal,Database Manager,50-69,1,0.01%
+Spain,Data Recovery Planner,30-49,1,0.01%
+Portugal,Database Management System Specialist (DBMS Specialist),18-29,1,0.01%
+Spain,Data Recovery Planner,50-69,1,0.01%
+Spain,Data Reviewer,30-49,1,0.01%
+Spain,Data Sciences Director,30-49,1,0.01%
+Portugal,Database Engineer,50-69,1,0.01%
+Portugal,Database Engineer,30-49,1,0.01%
+Spain,Data Scientist,18-29,1,0.01%
+Spain,Data Security Administrator,18-29,1,0.01%
+Portugal,Database Development and Administration Project Manager,50-69,1,0.01%
+Portugal,Database Architect,30-49,1,0.01%
+Portugal,Database Administration Manager,50-69,1,0.01%
+Spain,Data Processing Clerk,30-49,1,0.01%
+Portugal,Databases Software Consultant,18-29,1,0.01%
+Spain,Data Processing Auxiliary Equipment Operator,50-69,1,0.01%
+Portugal,Electronic Data Processing Auditor (EDP Auditor),50-69,1,0.01%
+Portugal,LiDAR Data Analyst,50-69,1,0.01%
+Portugal,Internet Database Specialist,30-49,1,0.01%
+Portugal,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,1,0.01%
+Spain,Data Keyer,50-69,1,0.01%
+Portugal,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Portugal,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Spain,Data Management Information Technology Specialist,30-49,1,0.01%
+Spain,Data Management Manager,50-69,1,0.01%
+Portugal,Field Traffic Data Technician,50-69,1,0.01%
+Portugal,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,1,0.01%
+Spain,Data Miner,18-29,1,0.01%
+Portugal,Databases Software Consultant,30-49,1,0.01%
+Portugal,Electronic Data Interchange System Developer (EDI System Developer),50-69,1,0.01%
+Spain,Data Modeler,50-69,1,0.01%
+Spain,Data Modeling Specialist,18-29,1,0.01%
+Spain,Data Officer,30-49,1,0.01%
+Spain,Data Officer,50-69,1,0.01%
+Spain,Data Operations Director,30-49,1,0.01%
+Lithuania,Database Security Administrator,50-69,1,0.01%
+Portugal,Databases Software Consultant,50-69,1,0.01%
+Spain,Data Processing Auditor,18-29,1,0.01%
+Spain,Data Processing Auxiliary Equipment Operator,30-49,1,0.01%
+Spain,Data Security Analyst,30-49,1,0.01%
+Portugal,Database Administration Associate,50-69,1,0.01%
+Portugal,Database Administration Associate,18-29,1,0.01%
+Portugal,Data Entry Machine Operator,50-69,1,0.01%
+Spain,Data Warehousing Manager,18-29,1,0.01%
+Portugal,Data Officer,30-49,1,0.01%
+Portugal,Data Modeling Specialist,50-69,1,0.01%
+Portugal,Data Miner,50-69,1,0.01%
+Spain,Database Administration Associate,30-49,1,0.01%
+Portugal,Data Manager,50-69,1,0.01%
+Portugal,Data Management Manager,50-69,1,0.01%
+Portugal,Data Management Information Technology Specialist,50-69,1,0.01%
+Portugal,Data Management Associate,18-29,1,0.01%
+Spain,Database Administration Manager,18-29,1,0.01%
+Spain,Database Administration Project Manager,30-49,1,0.01%
+Portugal,Data Processing Consultant,30-49,1,0.01%
+Portugal,Data Coordinator,30-49,1,0.01%
+Portugal,Data Coordinator,18-29,1,0.01%
+Spain,Database Administration Project Manager,50-69,1,0.01%
+Portugal,Data Conversion Operator,30-49,1,0.01%
+Portugal,Data Communications Technician,50-69,1,0.01%
+Portugal,Data Communications Software Consultant,30-49,1,0.01%
+Portugal,Data Communications Software Consultant,18-29,1,0.01%
+Portugal,Data Collector,50-69,1,0.01%
+Portugal,Data Center Operator,30-49,1,0.01%
+Portugal,Computer or Data Processing Systems Consultant,30-49,1,0.01%
+Portugal,Data Processing Clerk,50-69,1,0.01%
+Portugal,Data Processing Control Clerk,50-69,1,0.01%
+Spain,Data Typist,50-69,1,0.01%
+Portugal,Data Recovery Planner,30-49,1,0.01%
+Portugal,Data Warehousing Manager,30-49,1,0.01%
+Portugal,Data Warehousing Engineer,50-69,1,0.01%
+Portugal,Data Warehouse Specialist,30-49,1,0.01%
+Portugal,Data Storage Specialist,50-69,1,0.01%
+Portugal,Data Storage Specialist,18-29,1,0.01%
+Portugal,Data Scientist,30-49,1,0.01%
+Portugal,Data Reduction Technician,50-69,1,0.01%
+Portugal,Data Recovery Planner,50-69,1,0.01%
+Spain,Data Warehouse Architect,30-49,1,0.01%
+Spain,Data Warehouse Developer,30-49,1,0.01%
+Portugal,Data Recovery Planner,18-29,1,0.01%
+Portugal,Data Processing Equipment Repairer,50-69,1,0.01%
+Spain,Data Warehouse Developer,50-69,1,0.01%
+Portugal,Data Processor,50-69,1,0.01%
+Portugal,Data Processing Systems Project Planner,50-69,1,0.01%
+Spain,Data Warehouse Specialist,18-29,1,0.01%
+Portugal,Data Processing Systems Project Planner,30-49,1,0.01%
+Portugal,Data Processing Services Sales Representative,50-69,1,0.01%
+Spain,Data Warehousing Engineer,18-29,1,0.01%
+Spain,Data Warehousing Engineer,50-69,1,0.01%
+Portugal,Data Processing Manager,50-69,1,0.01%
+Portugal,Data Processing Manager,18-29,1,0.01%
+Lithuania,Database Specialist,30-49,1,0.01%
+Austria,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,1,0.01%
+Lithuania,Database Manager,50-69,1,0.01%
+Denmark,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Finland,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Finland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,1,0.01%
+Estonia,Unemployed,50-69,1,0.01%
+Estonia,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,1,0.01%
+Estonia,Director of Data Operations,30-49,1,0.01%
+Estonia,Database Manager,50-69,1,0.01%
+Estonia,Database Administration Manager,50-69,1,0.01%
+Estonia,Data Processing Supervisor,50-69,1,0.01%
+Estonia,Data Operations Director,30-49,1,0.01%
+Estonia,Data Management Information Technology Specialist,30-49,1,0.01%
+Estonia,Data Entry Supervisor,18-29,1,0.01%
+Estonia,Data Collection Technician,50-69,1,0.01%
+Estonia,Data Base Design Analyst,30-49,1,0.01%
+Denmark,SQL Database Administrator,50-69,1,0.01%
+Denmark,Medical Data Analyst,50-69,1,0.01%
+Finland,Computer or Data Processing Systems Consultant,30-49,1,0.01%
+Denmark,Internet Database Specialist,50-69,1,0.01%
+Denmark,Health Data Analyst,50-69,1,0.01%
+Denmark,Field Traffic Data Technician,50-69,1,0.01%
+Denmark,Electronic Data Processing Auditor (EDP Auditor),50-69,1,0.01%
+Denmark,Electronic Data Interchange System Developer (EDI System Developer),50-69,1,0.01%
+Denmark,Electronic Data Interchange System Developer (EDI System Developer),30-49,1,0.01%
+Denmark,Director of Data Operations,50-69,1,0.01%
+Denmark,Databases Computer Consultant,50-69,1,0.01%
+Denmark,Database Tester,50-69,1,0.01%
+Denmark,Database Tester,30-49,1,0.01%
+Denmark,Database Modeler,50-69,1,0.01%
+Denmark,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Denmark,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Denmark,Database Engineer,18-29,1,0.01%
+Finland,Clinical Data Management Manager (CDM Manager),50-69,1,0.01%
+Finland,Computer or Data Processing Systems Consultant,50-69,1,0.01%
+Lithuania,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Finland,Data Processing Manager,18-29,1,0.01%
+Finland,Database Administration Manager,30-49,1,0.01%
+Finland,Database Administration Associate,50-69,1,0.01%
+Finland,Data Warehousing Specialist,30-49,1,0.01%
+Finland,Data Warehousing Manager,50-69,1,0.01%
+Finland,Data Warehousing Engineer,50-69,1,0.01%
+Finland,Data Warehouse Developer,50-69,1,0.01%
+Finland,Data Transcriber,30-49,1,0.01%
+Finland,Data Storage Specialist,30-49,1,0.01%
+Finland,Data Security Analyst,30-49,1,0.01%
+Finland,Data Scientist,50-69,1,0.01%
+Finland,Data Reduction Technician,50-69,1,0.01%
+Finland,Data Reduction Technician,30-49,1,0.01%
+Finland,Data Processing Systems Analyst,50-69,1,0.01%
+Finland,Data Processing Mechanic,50-69,1,0.01%
+Finland,Data Processing Consultant,50-69,1,0.01%
+Finland,Data Administrator,50-69,1,0.01%
+Finland,Data Operations Director,30-49,1,0.01%
+Finland,Data Officer,30-49,1,0.01%
+Finland,Data Modeling Specialist,30-49,1,0.01%
+Finland,Data Modeling Specialist,18-29,1,0.01%
+Finland,Data Manager,50-69,1,0.01%
+Finland,Data Management Information Technology Specialist,50-69,1,0.01%
+Finland,Data Entry Representative,50-69,1,0.01%
+Finland,Data Coordinator,50-69,1,0.01%
+Finland,Data Coordinator,30-49,1,0.01%
+Finland,Data Coordinator,18-29,1,0.01%
+Finland,Data Communications Analyst,30-49,1,0.01%
+Finland,Data Collection Technician,50-69,1,0.01%
+Finland,Data Architect,50-69,1,0.01%
+Finland,Data Analysis Assistant,50-69,1,0.01%
+Denmark,Database Designer,50-69,1,0.01%
+Denmark,Database Consultant,50-69,1,0.01%
+Denmark,Database Administration Associate,50-69,1,0.01%
+Czechia,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Czechia,Health Data Analyst,18-29,1,0.01%
+Czechia,Head of Information Systems and Data Processing,50-69,1,0.01%
+Czechia,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,1,0.01%
+Czechia,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,1,0.01%
+Czechia,Geographic Information Systems Data Manager (GIS Data Manager),50-69,1,0.01%
+Czechia,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,1,0.01%
+Czechia,GPS Field Data Collector (Global Positioning System Field Data Collector),50-69,1,0.01%
+Czechia,Flight Test Data Acquisition Technician,18-29,1,0.01%
+Czechia,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Czechia,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Czechia,Databases Software Consultant,30-49,1,0.01%
+Czechia,Database Specialist,30-49,1,0.01%
+Czechia,Database Security Administrator,30-49,1,0.01%
+Czechia,Database Marketing Analyst,18-29,1,0.01%
+Czechia,Database Development and Administration Project Manager,50-69,1,0.01%
+Denmark,Data Warehousing Specialist,50-69,1,0.01%
+Czechia,Database Development Project Manager,50-69,1,0.01%
+Czechia,Database Designer,50-69,1,0.01%
+Czechia,Database Coordinator,50-69,1,0.01%
+Czechia,Database Coordinator,30-49,1,0.01%
+Czechia,Database Consultant,50-69,1,0.01%
+Czechia,Database Administrator (DBA),18-29,1,0.01%
+Czechia,Database Administration Associate,50-69,1,0.01%
+Czechia,Data Warehousing Specialist,50-69,1,0.01%
+Czechia,Data Warehousing Engineer,50-69,1,0.01%
+Czechia,Data Warehouse Developer,50-69,1,0.01%
+Czechia,Data Warehouse Architect,50-69,1,0.01%
+Czechia,Data Warehouse Architect,30-49,1,0.01%
+Czechia,Data Warehouse Analyst,50-69,1,0.01%
+Czechia,Data Warehouse Analyst,18-29,1,0.01%
+Czechia,Internet Database Specialist,18-29,1,0.01%
+Czechia,Internet Database Specialist,30-49,1,0.01%
+Czechia,Maintenance Data Analyst,50-69,1,0.01%
+Czechia,Marketing Database Analyst,50-69,1,0.01%
+Denmark,Data Warehouse Specialist,30-49,1,0.01%
+Denmark,Data Warehouse Developer,50-69,1,0.01%
+Denmark,Data Warehouse Analyst,18-29,1,0.01%
+Denmark,Data Typist,50-69,1,0.01%
+Denmark,Data Transcriber,50-69,1,0.01%
+Denmark,Data Systems Manager,30-49,1,0.01%
+Denmark,Data Storage Specialist,50-69,1,0.01%
+Denmark,Data Storage Specialist,30-49,1,0.01%
+Denmark,Data Scientist,18-29,1,0.01%
+Denmark,Data Processing Manager,30-49,1,0.01%
+Denmark,Data Processing Auditor,50-69,1,0.01%
+Denmark,Data Operations Director,30-49,1,0.01%
+Denmark,Data Officer,30-49,1,0.01%
+Denmark,Data Officer,18-29,1,0.01%
+Denmark,Data Manager,18-29,1,0.01%
+Denmark,Data Management Information Technology Specialist,30-49,1,0.01%
+Denmark,Data Keyer,18-29,1,0.01%
+Denmark,Data Base Design Analyst,18-29,1,0.01%
+Denmark,Data Architect,30-49,1,0.01%
+Denmark,Clinical Data Manager,30-49,1,0.01%
+Denmark,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,1,0.01%
+Denmark,Automatic Data Processing Planner,50-69,1,0.01%
+Denmark,Automatic Data Processing Planner,30-49,1,0.01%
+Czechia,SQL Database Administrator,30-49,1,0.01%
+Czechia,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,1,0.01%
+Czechia,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Czechia,"Naval Tactical Data System--Combat Information Center Watch Officer, General",30-49,1,0.01%
+Czechia,Naval Tactical Data System--Combat Information Center Officer,50-69,1,0.01%
+Czechia,Micro Computer Data Processor,50-69,1,0.01%
+Finland,Database Consultant,18-29,1,0.01%
+Finland,Database Coordinator,50-69,1,0.01%
+Finland,Database Development Project Manager,18-29,1,0.01%
+France,Data Warehousing Manager,30-49,1,0.01%
+France,Datastage Developer,30-49,1,0.01%
+France,Databases Software Consultant,18-29,1,0.01%
+France,Database Security Expert,18-29,1,0.01%
+France,Database Programmer,30-49,1,0.01%
+France,Database Marketing Analyst,18-29,1,0.01%
+France,Database Manager,18-29,1,0.01%
+France,Database Engineer,18-29,1,0.01%
+France,Database Development Project Manager,50-69,1,0.01%
+France,Database Developer,50-69,1,0.01%
+France,Database Consultant,18-29,1,0.01%
+France,Database Analyst,18-29,1,0.01%
+France,Database Administration Project Manager,50-69,1,0.01%
+France,Database Administration Associate,18-29,1,0.01%
+France,Data Warehousing Specialist,18-29,1,0.01%
+France,Data Warehousing Engineer,30-49,1,0.01%
+France,Data Processing Manager,30-49,1,0.01%
+France,Data Warehouse Developer,30-49,1,0.01%
+France,Data Typist,50-69,1,0.01%
+France,Data Transcriber,50-69,1,0.01%
+France,Data Transcriber,30-49,1,0.01%
+France,Data Transcriber,18-29,1,0.01%
+France,Data Technician,50-69,1,0.01%
+France,Data Storage Specialist,18-29,1,0.01%
+France,Data Specialist,50-69,1,0.01%
+France,Data Security Administrator,18-29,1,0.01%
+France,Data Scientist,30-49,1,0.01%
+France,Data Sciences Director,30-49,1,0.01%
+France,Data Reduction Technician,50-69,1,0.01%
+France,Data Recovery Planner,50-69,1,0.01%
+France,Data Recovery Planner,30-49,1,0.01%
+France,Electronic Data Interchange System Developer (EDI System Developer),18-29,1,0.01%
+France,Electronic Data Processing Auditor (EDP Auditor),18-29,1,0.01%
+France,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,1,0.01%
+Germany,Clinical Data Manager,30-49,1,0.01%
+Germany,Clinical Data Management Manager (CDM Manager),50-69,1,0.01%
+Germany,Clinical Data Management Associate Director,30-49,1,0.01%
+Germany,Clinical Data Coordinator,50-69,1,0.01%
+Germany,Clinical Data Coordinator,30-49,1,0.01%
+Germany,Clinical Data Coordinator,18-29,1,0.01%
+Germany,Clinical Data Associate,50-69,1,0.01%
+Germany,Business Database Analyst,18-29,1,0.01%
+Germany,Automatic Data Processing Customer Liaison (ADP Customer Liaison),30-49,1,0.01%
+France,Voice and Data Technician,30-49,1,0.01%
+France,Survey Data Technician,30-49,1,0.01%
+France,Scientific Database Curator,50-69,1,0.01%
+France,Scientific Database Curator,18-29,1,0.01%
+France,SQL Database Administrator,50-69,1,0.01%
+France,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,1,0.01%
+France,SCADA Technician (Supervisory Control and Data Acquisition Technician),30-49,1,0.01%
+France,SCADA Operator (Supervisory Control and Data Acquisition Operator),18-29,1,0.01%
+France,Reference Data Expert,18-29,1,0.01%
+France,"Operations Officer, Afloat (Naval Tactical Data Systems)",50-69,1,0.01%
+France,Naval Tactical Data System--Combat Information Center Officer,50-69,1,0.01%
+France,Naval Tactical Data System--Combat Information Center Officer,30-49,1,0.01%
+France,Micro Computer Data Processor,50-69,1,0.01%
+France,Marketing Database Analyst,50-69,1,0.01%
+France,Maintenance Data Analyst,50-69,1,0.01%
+France,Maintenance Data Analyst,18-29,1,0.01%
+France,Log Data Technician,18-29,1,0.01%
+France,Internet Database Specialist,18-29,1,0.01%
+France,GPS Field Data Collector (Global Positioning System Field Data Collector),30-49,1,0.01%
+France,Flight Test Data Acquisition Technician,50-69,1,0.01%
+France,Data Processing Systems Analyst,18-29,1,0.01%
+France,Data Processing Consultant,18-29,1,0.01%
+Finland,Database Development and Administration Project Manager,50-69,1,0.01%
+Finland,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,1,0.01%
+France,Clinical Data Management Manager (CDM Manager),18-29,1,0.01%
+France,Clinical Data Management Associate Director,50-69,1,0.01%
+France,Clinical Data Management Associate Director,30-49,1,0.01%
+France,Clinical Data Coordinator,50-69,1,0.01%
+France,Clinical Data Coordinator,18-29,1,0.01%
+France,Clinical Data Associate,50-69,1,0.01%
+France,Clinical Data Associate,30-49,1,0.01%
+France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,1,0.01%
+France,Automatic Data Processing Planner (ADP Planner),18-29,1,0.01%
+Finland,SCADA Technician (Supervisory Control and Data Acquisition Technician),30-49,1,0.01%
+Finland,Oracle Database Administrator (Oracle DBA),50-69,1,0.01%
+Finland,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Finland,Naval Tactical Data System--Combat Information Center Officer,18-29,1,0.01%
+Finland,Internet Database Specialist,50-69,1,0.01%
+Finland,Geographic Information Systems Data Manager (GIS Data Manager),50-69,1,0.01%
+France,Data Processing Auditor,30-49,1,0.01%
+Finland,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Finland,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Finland,Electronic Data Processing Auditor (EDP Auditor),18-29,1,0.01%
+Finland,Director of Data Operations,30-49,1,0.01%
+Finland,Director of Data Operations,18-29,1,0.01%
+Finland,Datastage Developer,50-69,1,0.01%
+Finland,Databases Software Consultant,50-69,1,0.01%
+Finland,Database Specialist,18-29,1,0.01%
+Finland,Database Software Technician,50-69,1,0.01%
+Finland,Database Software Technician,30-49,1,0.01%
+Finland,Database Marketing Analyst,50-69,1,0.01%
+Finland,Database Marketing Analyst,30-49,1,0.01%
+Finland,Database Marketing Analyst,18-29,1,0.01%
+Finland,Database Manager,50-69,1,0.01%
+France,Clinical Data Manager,30-49,1,0.01%
+France,Clinical Data Manager,50-69,1,0.01%
+France,Clinical Data Specialist,50-69,1,0.01%
+France,Clinical Trials Data Coordinator,30-49,1,0.01%
+France,Data Processing Auditor,18-29,1,0.01%
+France,Data Operations Director,30-49,1,0.01%
+France,Data Officer,18-29,1,0.01%
+France,Data Modeler,50-69,1,0.01%
+France,Data Modeler,30-49,1,0.01%
+France,Data Manager,30-49,1,0.01%
+France,Data Management Manager,30-49,1,0.01%
+France,Data Input Clerk,50-69,1,0.01%
+France,Data Entry Supervisor,30-49,1,0.01%
+France,Data Entry Specialist,50-69,1,0.01%
+France,Data Entry Specialist,30-49,1,0.01%
+France,Data Entry Representative,18-29,1,0.01%
+France,Data Entry Machine Operator,50-69,1,0.01%
+France,Data Entry Machine Operator,30-49,1,0.01%
+France,Data Control Clerk Supervisor,50-69,1,0.01%
+France,Data Control Assistant,30-49,1,0.01%
+France,Data Communications Technician,30-49,1,0.01%
+France,Data Communications Analyst,18-29,1,0.01%
+France,Data Collector,50-69,1,0.01%
+France,Data Collection Technician,18-29,1,0.01%
+France,Data Coder Operator,50-69,1,0.01%
+France,Data Coder Operator,30-49,1,0.01%
+France,Data Capture Specialist,50-69,1,0.01%
+France,Data Base Design Analyst,18-29,1,0.01%
+France,Data Architect,18-29,1,0.01%
+France,Data Administrator,18-29,1,0.01%
+France,Customer Data Technician,18-29,1,0.01%
+France,Crime Data Specialist,18-29,1,0.01%
+France,Computer or Data Processing Systems Consultant,18-29,1,0.01%
+Czechia,Data Technician,50-69,1,0.01%
+Czechia,Data Systems Manager,50-69,1,0.01%
+Czechia,Data Storage Specialist,30-49,1,0.01%
+Belgium,Data Processing Systems Project Planner,30-49,1,0.01%
+Belgium,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Belgium,Database Development and Administration Project Manager,50-69,1,0.01%
+Belgium,Database Design Analyst,50-69,1,0.01%
+Belgium,Database Coordinator,30-49,1,0.01%
+Belgium,Database Consultant,50-69,1,0.01%
+Belgium,Database Consultant,30-49,1,0.01%
+Belgium,Database Architect,30-49,1,0.01%
+Belgium,Data Warehouse Developer,50-69,1,0.01%
+Belgium,Data Warehouse Analyst,50-69,1,0.01%
+Belgium,Data Systems Manager,50-69,1,0.01%
+Belgium,Data Storage Specialist,50-69,1,0.01%
+Belgium,Data Security Administrator,30-49,1,0.01%
+Belgium,Data Recovery Planner,30-49,1,0.01%
+Belgium,Data Processing Systems Project Planner,50-69,1,0.01%
+Belgium,Data Processing Systems Analyst,50-69,1,0.01%
+Belgium,Data Architect,50-69,1,0.01%
+Belgium,Data Processing Systems Analyst,30-49,1,0.01%
+Belgium,Data Processing Manager,18-29,1,0.01%
+Belgium,Data Processing Consultant,50-69,1,0.01%
+Belgium,Data Officer,18-29,1,0.01%
+Belgium,Data Miner,18-29,1,0.01%
+Belgium,Data Manager,50-69,1,0.01%
+Belgium,Data Management Associate,18-29,1,0.01%
+Belgium,Data Entry Specialist,30-49,1,0.01%
+Belgium,Data Entry Representative,50-69,1,0.01%
+Belgium,Data Entry Associate,18-29,1,0.01%
+Belgium,Data Coordinator,50-69,1,0.01%
+Belgium,Data Communications Analyst,50-69,1,0.01%
+Belgium,Data Collector,30-49,1,0.01%
+Belgium,Data Capture Specialist,50-69,1,0.01%
+Belgium,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Belgium,Database Manager,50-69,1,0.01%
+Belgium,Database Marketing Analyst,30-49,1,0.01%
+Belgium,Database Marketing Analyst,50-69,1,0.01%
+Bulgaria,Data Center Operator,18-29,1,0.01%
+Bulgaria,Data Center Manager,50-69,1,0.01%
+Bulgaria,Data Base Design Analyst,50-69,1,0.01%
+Bulgaria,Data Architect,50-69,1,0.01%
+Bulgaria,Data Architect,30-49,1,0.01%
+Bulgaria,Data Abstractor,18-29,1,0.01%
+Bulgaria,Computer or Data Processing Systems Consultant,50-69,1,0.01%
+Bulgaria,Clinical Data Manager,50-69,1,0.01%
+Bulgaria,Clinical Data Management Associate Director,50-69,1,0.01%
+Bulgaria,Business Database Analyst,50-69,1,0.01%
+Bulgaria,Automatic Data Processing Planner (ADP Planner),50-69,1,0.01%
+Bulgaria,Automatic Data Processing Planner,50-69,1,0.01%
+Belgium,SQL Database Administrator,50-69,1,0.01%
+Belgium,Reference Data Expert,30-49,1,0.01%
+Belgium,Oracle Database Administrator (Oracle DBA),50-69,1,0.01%
+Belgium,Medical Data Analyst,50-69,1,0.01%
+Belgium,Marketing Database Analyst,50-69,1,0.01%
+Belgium,Log Data Technician,50-69,1,0.01%
+Belgium,Health Data Analyst,18-29,1,0.01%
+Belgium,Head of Information Systems and Data Processing,50-69,1,0.01%
+Belgium,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Belgium,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,1,0.01%
+Belgium,Geographic Information Systems Data Manager (GIS Data Manager),18-29,1,0.01%
+Belgium,Flight Data Technician,30-49,1,0.01%
+Belgium,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Belgium,Electronic Data Processing Auditor (EDP Auditor),50-69,1,0.01%
+Belgium,Director of Data Operations,50-69,1,0.01%
+Belgium,Database Software Technician,30-49,1,0.01%
+Belgium,Database Security Administrator,18-29,1,0.01%
+Belgium,Data Base Design Analyst,50-69,1,0.01%
+Belgium,Data Administrator,50-69,1,0.01%
+Bulgaria,Data Compiler,30-49,1,0.01%
+Austria,Data Management Information Technology Specialist,30-49,1,0.01%
+Austria,Database Design Analyst,30-49,1,0.01%
+Austria,Database Coordinator,50-69,1,0.01%
+Austria,Database Architect,50-69,1,0.01%
+Austria,Database Administration Manager,30-49,1,0.01%
+Austria,Database Administration Associate,30-49,1,0.01%
+Austria,Data Warehousing Manager,30-49,1,0.01%
+Austria,Data Warehousing Engineer,30-49,1,0.01%
+Austria,Data Warehouse Developer,50-69,1,0.01%
+Austria,Data Systems Manager,30-49,1,0.01%
+Austria,Data Security Analyst,50-69,1,0.01%
+Austria,Data Security Analyst,18-29,1,0.01%
+Austria,Data Processing Systems Project Planner,50-69,1,0.01%
+Austria,Data Officer,50-69,1,0.01%
+Austria,Data Officer,18-29,1,0.01%
+Austria,Data Management Associate,50-69,1,0.01%
+Belgium,Data Administrator,30-49,1,0.01%
+Austria,Data Keyer,50-69,1,0.01%
+Austria,Data Entry Specialist,30-49,1,0.01%
+Austria,Data Entry Representative,30-49,1,0.01%
+Austria,Data Communications Software Consultant,50-69,1,0.01%
+Austria,Data Communications Software Consultant,18-29,1,0.01%
+Austria,Data Coder Operator,50-69,1,0.01%
+Austria,Data Base Design Analyst,50-69,1,0.01%
+Austria,Data Base Design Analyst,30-49,1,0.01%
+Austria,Data Administrator,30-49,1,0.01%
+Austria,Crime Data Specialist,50-69,1,0.01%
+Austria,Computer or Data Processing Systems Consultant,30-49,1,0.01%
+Austria,Clinical Data Specialist,30-49,1,0.01%
+Austria,Automatic Data Processing Systems Security Specialist (ADP Systems Security),50-69,1,0.01%
+Austria,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Austria,Database Developer,50-69,1,0.01%
+Austria,Database Development and Administration Project Manager,18-29,1,0.01%
+Austria,Database Engineer,18-29,1,0.01%
+Austria,Database Engineer,30-49,1,0.01%
+Belgium,Data Administrator,18-29,1,0.01%
+Belgium,Crime Data Specialist,18-29,1,0.01%
+Belgium,Clinical Data Coordinator,50-69,1,0.01%
+Belgium,Clinical Data Associate,30-49,1,0.01%
+Belgium,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Belgium,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,1,0.01%
+Austria,"Naval Tactical Data System--Combat Information Center Watch Officer, General",30-49,1,0.01%
+Austria,"Naval Tactical Data System--Combat Information Center Watch Officer, General",18-29,1,0.01%
+Austria,Maintenance Data Analyst,50-69,1,0.01%
+Austria,Internet Database Specialist,18-29,1,0.01%
+Austria,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,1,0.01%
+Austria,Geographic Information Systems Database Administrator (GIS Database Administrator),18-29,1,0.01%
+Austria,Geographic Information Systems Data Specialist (GIS Data Specialist),30-49,1,0.01%
+Austria,Geographic Information Systems Data Manager (GIS Data Manager),50-69,1,0.01%
+Austria,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,1,0.01%
+Austria,GPS Field Data Collector (Global Positioning System Field Data Collector),30-49,1,0.01%
+Austria,Field Artillery Automated Tactical Data System Specialist,30-49,1,0.01%
+Austria,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Austria,Director of Data Operations,50-69,1,0.01%
+Austria,Databases Computer Consultant,30-49,1,0.01%
+Austria,Database Software Technician,50-69,1,0.01%
+Austria,Database Software Technician,18-29,1,0.01%
+Austria,Database Security Expert,50-69,1,0.01%
+Austria,Database Security Administrator,50-69,1,0.01%
+Austria,Database Security Administrator,30-49,1,0.01%
+Austria,Database Security Administrator,18-29,1,0.01%
+Austria,Database Modeler,30-49,1,0.01%
+Austria,Database Marketing Analyst,30-49,1,0.01%
+Austria,Database Manager,18-29,1,0.01%
+Bulgaria,Data Communications Analyst,30-49,1,0.01%
+Bulgaria,Data Control Assistant,18-29,1,0.01%
+Czechia,Data Security Analyst,50-69,1,0.01%
+Croatia,Internet Database Specialist,30-49,1,0.01%
+Czechia,Automatic Data Processing Planner (ADP Planner),50-69,1,0.01%
+Czechia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,1,0.01%
+Czechia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,1,0.01%
+Cyprus,Unemployed,50-69,1,0.01%
+Cyprus,Head of Information Systems and Data Processing,50-69,1,0.01%
+Cyprus,Database Administrator (DBA),50-69,1,0.01%
+Cyprus,Data Warehousing Specialist,50-69,1,0.01%
+Cyprus,Data Systems Manager,50-69,1,0.01%
+Cyprus,Data Modeling Specialist,50-69,1,0.01%
+Cyprus,Data Management Associate,30-49,1,0.01%
+Cyprus,Data Communications Analyst,30-49,1,0.01%
+Cyprus,Clinical Trials Data Coordinator,18-29,1,0.01%
+Croatia,"Operations Officer, Afloat (Naval Tactical Data Systems)",30-49,1,0.01%
+Croatia,Internet Database Specialist,50-69,1,0.01%
+Croatia,Head of Information Systems and Data Processing,30-49,1,0.01%
+Croatia,Data Warehouse Specialist,50-69,1,0.01%
+Croatia,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,1,0.01%
+Croatia,Geographic Information Systems Data Manager (GIS Data Manager),50-69,1,0.01%
+Croatia,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Croatia,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Croatia,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,1,0.01%
+Croatia,Electronic Data Interchange System Developer (EDI System Developer),50-69,1,0.01%
+Croatia,Database Tester,50-69,1,0.01%
+Croatia,Database Specialist,50-69,1,0.01%
+Croatia,Database Security Expert,50-69,1,0.01%
+Croatia,Database Security Administrator,50-69,1,0.01%
+Croatia,Database Engineer,50-69,1,0.01%
+Croatia,Database Designer,50-69,1,0.01%
+Croatia,Database Design Analyst,50-69,1,0.01%
+Croatia,Database Design Analyst,18-29,1,0.01%
+Czechia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Czechia,Clinical Data Coordinator,50-69,1,0.01%
+Czechia,Computer or Data Processing Systems Consultant,30-49,1,0.01%
+Czechia,Data Acquisition Technician,18-29,1,0.01%
+Czechia,Data Security Analyst,18-29,1,0.01%
+Czechia,Data Scientist,30-49,1,0.01%
+Czechia,Data Sciences Director,30-49,1,0.01%
+Czechia,Data Processing Systems Analyst,50-69,1,0.01%
+Czechia,Data Processing Services Sales Representative,50-69,1,0.01%
+Czechia,Data Processing Mechanic,30-49,1,0.01%
+Czechia,Data Processing Manager,50-69,1,0.01%
+Czechia,Data Processing Equipment Repairer,30-49,1,0.01%
+Czechia,Data Processing Auxiliary Equipment Operator,50-69,1,0.01%
+Czechia,Data Processing Auditor,50-69,1,0.01%
+Czechia,Data Operations Director,30-49,1,0.01%
+Czechia,Data Officer,50-69,1,0.01%
+Czechia,Data Modeling Specialist,50-69,1,0.01%
+Czechia,Data Modeling Specialist,30-49,1,0.01%
+Czechia,Data Miner,50-69,1,0.01%
+Czechia,Data Manager,50-69,1,0.01%
+Czechia,Data Management Information Technology Specialist,50-69,1,0.01%
+Czechia,Data Management Associate,30-49,1,0.01%
+Czechia,Data Keyer,18-29,1,0.01%
+Czechia,Data Entry Specialist,50-69,1,0.01%
+Czechia,Data Entry Machine Operator,50-69,1,0.01%
+Czechia,Data Coordinator,50-69,1,0.01%
+Czechia,Data Control Assistant,30-49,1,0.01%
+Czechia,Data Communications Software Consultant,50-69,1,0.01%
+Czechia,Data Communications Analyst,50-69,1,0.01%
+Czechia,Data Collection Technician,50-69,1,0.01%
+Czechia,Data Center Operator,50-69,1,0.01%
+Czechia,Data Architect,50-69,1,0.01%
+Czechia,Data Architect,30-49,1,0.01%
+Croatia,Database Coordinator,50-69,1,0.01%
+Croatia,Data Warehouse Developer,30-49,1,0.01%
+Bulgaria,Data Coordinator,30-49,1,0.01%
+Bulgaria,Data Warehouse Architect,18-29,1,0.01%
+Bulgaria,Database Modeler,50-69,1,0.01%
+Bulgaria,Database Modeler,30-49,1,0.01%
+Bulgaria,Database Development Project Manager,18-29,1,0.01%
+Bulgaria,Database Designer,30-49,1,0.01%
+Bulgaria,Database Designer,18-29,1,0.01%
+Bulgaria,Database Design Analyst,18-29,1,0.01%
+Bulgaria,Database Coordinator,50-69,1,0.01%
+Bulgaria,Database Consultant,50-69,1,0.01%
+Bulgaria,Database Architect,50-69,1,0.01%
+Bulgaria,Database Analyst,30-49,1,0.01%
+Bulgaria,Database Administration Manager,50-69,1,0.01%
+Bulgaria,Data Warehousing Engineer,50-69,1,0.01%
+Bulgaria,Data Warehouse Specialist,50-69,1,0.01%
+Bulgaria,Data Warehouse Specialist,18-29,1,0.01%
+Bulgaria,Data Systems Manager,30-49,1,0.01%
+Croatia,Data Storage Specialist,50-69,1,0.01%
+Bulgaria,Data Storage Specialist,50-69,1,0.01%
+Bulgaria,Data Security Analyst,18-29,1,0.01%
+Bulgaria,Data Security Administrator,50-69,1,0.01%
+Bulgaria,Data Reduction Technician,30-49,1,0.01%
+Bulgaria,Data Recovery Planner,50-69,1,0.01%
+Bulgaria,Data Processing Systems Analyst,50-69,1,0.01%
+Bulgaria,Data Processing Systems Analyst,18-29,1,0.01%
+Bulgaria,Data Operations Director,50-69,1,0.01%
+Bulgaria,Data Officer,50-69,1,0.01%
+Bulgaria,Data Modeling Specialist,50-69,1,0.01%
+Bulgaria,Data Miner,50-69,1,0.01%
+Bulgaria,Data Miner,18-29,1,0.01%
+Bulgaria,Data Management Information Technology Specialist,18-29,1,0.01%
+Bulgaria,Data Management Associate,30-49,1,0.01%
+Bulgaria,Database Security Administrator,30-49,1,0.01%
+Bulgaria,Database Security Expert,30-49,1,0.01%
+Bulgaria,Database Software Technician,30-49,1,0.01%
+Bulgaria,Database Software Technician,50-69,1,0.01%
+Croatia,Data Storage Specialist,30-49,1,0.01%
+Croatia,Data Security Administrator,50-69,1,0.01%
+Croatia,Data Security Administrator,18-29,1,0.01%
+Croatia,Data Processing Systems Project Planner,50-69,1,0.01%
+Croatia,Data Processing Manager,30-49,1,0.01%
+Croatia,Data Operations Director,50-69,1,0.01%
+Croatia,Data Officer,50-69,1,0.01%
+Croatia,Data Modeling Specialist,50-69,1,0.01%
+Croatia,Data Management Information Technology Specialist,50-69,1,0.01%
+Croatia,Data Management Associate,30-49,1,0.01%
+Croatia,Data Entry Associate,50-69,1,0.01%
+Croatia,Data Coordinator,50-69,1,0.01%
+Croatia,Data Analysis Assistant,30-49,1,0.01%
+Croatia,Data Administrator,30-49,1,0.01%
+Croatia,Computer or Data Processing Systems Consultant,50-69,1,0.01%
+Croatia,Computer or Data Processing Systems Consultant,18-29,1,0.01%
+Croatia,Clinical Data Management Associate Director,50-69,1,0.01%
+Croatia,Clinical Data Abstractor,30-49,1,0.01%
+Croatia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,1,0.01%
+Bulgaria,Survey Data Technician,30-49,1,0.01%
+Bulgaria,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,1,0.01%
+Bulgaria,Internet Database Specialist,30-49,1,0.01%
+Bulgaria,Geographic Information Systems Data Manager (GIS Data Manager),18-29,1,0.01%
+Bulgaria,Geographic Information Systems Data Administrator (GIS Data Administrator),50-69,1,0.01%
+Bulgaria,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Bulgaria,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Bulgaria,Director of Data Operations,30-49,1,0.01%
+Bulgaria,Database Tester,50-69,1,0.01%
+Bulgaria,Database Tester,30-49,1,0.01%
+Germany,Clinical Trials Data Coordinator,50-69,1,0.01%
+Germany,Crime Data Specialist,18-29,1,0.01%
+Germany,Data Abstractor,30-49,1,0.01%
+Ireland,Data Architect,30-49,1,0.01%
+Ireland,Data Warehouse Analyst,30-49,1,0.01%
+Ireland,Data Specialist,50-69,1,0.01%
+Ireland,Data Security Administrator,50-69,1,0.01%
+Ireland,Data Scientist,30-49,1,0.01%
+Ireland,Data Processing Systems Project Planner,50-69,1,0.01%
+Ireland,Data Processing Systems Analyst,50-69,1,0.01%
+Ireland,Data Processing Systems Analyst,30-49,1,0.01%
+Ireland,Data Processing Mechanic,30-49,1,0.01%
+Ireland,Data Processing Manager,30-49,1,0.01%
+Ireland,Data Miner,50-69,1,0.01%
+Ireland,Data Input Clerk,18-29,1,0.01%
+Ireland,Data Control Clerk Supervisor,50-69,1,0.01%
+Ireland,Data Communications Analyst,50-69,1,0.01%
+Ireland,Data Communications Analyst,30-49,1,0.01%
+Ireland,Data Acquisition Technician,30-49,1,0.01%
+Hungary,Flight Test Data Acquisition Technician,50-69,1,0.01%
+Ireland,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Ireland,Automatic Data Processing Planner (ADP Planner),50-69,1,0.01%
+Hungary,SQL Database Administrator,18-29,1,0.01%
+Hungary,Oracle Database Administrator (Oracle DBA),50-69,1,0.01%
+Hungary,"Operations Officer, Afloat (Naval Tactical Data Systems)",50-69,1,0.01%
+Hungary,Naval Tactical Data System--Combat Information Center Officer,50-69,1,0.01%
+Hungary,Marketing Database Analyst,18-29,1,0.01%
+Hungary,Health Data Analyst,30-49,1,0.01%
+Hungary,Head of Information Systems and Data Processing,50-69,1,0.01%
+Hungary,Head of Information Systems and Data Processing,30-49,1,0.01%
+Hungary,Head of Information Systems and Data Processing,18-29,1,0.01%
+Hungary,Geographic Information Systems Database Administrator (GIS Database Administrator),50-69,1,0.01%
+Hungary,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Hungary,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,1,0.01%
+Ireland,Data Warehousing Manager,30-49,1,0.01%
+Ireland,Data Warehousing Specialist,50-69,1,0.01%
+Ireland,Database Administration Associate,50-69,1,0.01%
+Ireland,Database Architect,50-69,1,0.01%
+Italy,Data Acquisition Technician,30-49,1,0.01%
+Italy,Customer Data Technician,50-69,1,0.01%
+Italy,Computer or Data Processing Systems Consultant,18-29,1,0.01%
+Italy,Clinical Data Specialist,50-69,1,0.01%
+Italy,Clinical Data Specialist,18-29,1,0.01%
+Italy,Clinical Data Management Manager (CDM Manager),50-69,1,0.01%
+Italy,Clinical Data Management Associate Director,50-69,1,0.01%
+Italy,Clinical Data Coordinator,50-69,1,0.01%
+Italy,Clinical Data Analyst,30-49,1,0.01%
+Italy,Clinical Data Abstractor,50-69,1,0.01%
+Italy,Business Database Analyst,30-49,1,0.01%
+Italy,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Italy,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Italy,Automatic Data Processing Planner (ADP Planner),18-29,1,0.01%
+Italy,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,1,0.01%
+Ireland,SQL Database Administrator,30-49,1,0.01%
+Ireland,Reference Data Expert,50-69,1,0.01%
+Ireland,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Ireland,"Operations Officer, Afloat (Naval Tactical Data Systems)",30-49,1,0.01%
+Ireland,LiDAR Data Analyst,30-49,1,0.01%
+Ireland,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Ireland,Geographic Information Systems Data Manager (GIS Data Manager),50-69,1,0.01%
+Ireland,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Ireland,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Ireland,Database Security Administrator,18-29,1,0.01%
+Ireland,Database Modeler,50-69,1,0.01%
+Ireland,Database Modeler,18-29,1,0.01%
+Ireland,Database Designer,30-49,1,0.01%
+Ireland,Database Consultant,18-29,1,0.01%
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Hungary,Field Traffic Data Technician,50-69,1,0.01%
+Italy,Data Analysis Assistant,50-69,1,0.01%
+Hungary,Data Operations Director,30-49,1,0.01%
+Hungary,Data Warehouse Architect,30-49,1,0.01%
+Hungary,Data Warehouse Analyst,30-49,1,0.01%
+Hungary,Data Warehouse Analyst,18-29,1,0.01%
+Hungary,Data Storage Specialist,30-49,1,0.01%
+Hungary,Data Specialist,50-69,1,0.01%
+Hungary,Data Specialist,30-49,1,0.01%
+Hungary,Data Processor,30-49,1,0.01%
+Hungary,Data Processing Systems Project Planner,50-69,1,0.01%
+Hungary,Data Processing Supervisor,50-69,1,0.01%
+Hungary,Data Processing Services Sales Representative,30-49,1,0.01%
+Hungary,Data Processing Manager,50-69,1,0.01%
+Hungary,Data Processing Auxiliary Equipment Operator,30-49,1,0.01%
+Hungary,Data Processing Auditor,30-49,1,0.01%
+Hungary,Data Processing Auditor,18-29,1,0.01%
+Hungary,Data Management Information Technology Specialist,50-69,1,0.01%
+Hungary,Field Traffic Data Technician,18-29,1,0.01%
+Hungary,Data Management Information Technology Specialist,30-49,1,0.01%
+Hungary,Data Keyer,30-49,1,0.01%
+Hungary,Data Entry Technician,50-69,1,0.01%
+Hungary,Data Entry Supervisor,18-29,1,0.01%
+Hungary,Data Entry Machine Operator,50-69,1,0.01%
+Hungary,Data Coordinator,30-49,1,0.01%
+Hungary,Data Conversion Operator,18-29,1,0.01%
+Hungary,Data Communications Software Consultant,50-69,1,0.01%
+Hungary,Data Collection Technician,50-69,1,0.01%
+Hungary,Data Capture Specialist,50-69,1,0.01%
+Hungary,Data Capture Clerk,50-69,1,0.01%
+Hungary,Data Base Design Analyst,50-69,1,0.01%
+Hungary,Data Base Design Analyst,30-49,1,0.01%
+Hungary,Data Architect,50-69,1,0.01%
+Hungary,Data Warehouse Developer,50-69,1,0.01%
+Hungary,Data Warehouse Specialist,30-49,1,0.01%
+Austria,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,1,0.01%
+Hungary,Data Warehousing Engineer,30-49,1,0.01%
+Hungary,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Hungary,Electronic Data Interchange System Developer (EDI System Developer),30-49,1,0.01%
+Hungary,Director of Data Operations,50-69,1,0.01%
+Hungary,Director of Data Operations,30-49,1,0.01%
+Hungary,Datastage Developer,18-29,1,0.01%
+Hungary,Databases Computer Consultant,50-69,1,0.01%
+Hungary,Databases Computer Consultant,30-49,1,0.01%
+Hungary,Database Tester,50-69,1,0.01%
+Hungary,Database Software Technician,50-69,1,0.01%
+Hungary,Database Software Technician,18-29,1,0.01%
+Hungary,Database Security Administrator,50-69,1,0.01%
+Hungary,Database Programmer,50-69,1,0.01%
+Hungary,Database Modeler,50-69,1,0.01%
+Hungary,Database Marketing Analyst,50-69,1,0.01%
+Hungary,Database Marketing Analyst,18-29,1,0.01%
+Hungary,Database Manager,30-49,1,0.01%
+Hungary,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Hungary,Database Management System Specialist (DBMS Specialist),30-49,1,0.01%
+Hungary,Database Engineer,50-69,1,0.01%
+Hungary,Database Engineer,30-49,1,0.01%
+Hungary,Database Developer,30-49,1,0.01%
+Hungary,Database Designer,30-49,1,0.01%
+Hungary,Database Design Analyst,30-49,1,0.01%
+Hungary,Database Coordinator,30-49,1,0.01%
+Hungary,Database Analyst,50-69,1,0.01%
+Hungary,Database Administration Manager,50-69,1,0.01%
+Hungary,Database Administration Manager,30-49,1,0.01%
+Hungary,Data Warehousing Specialist,30-49,1,0.01%
+Hungary,Data Warehousing Manager,50-69,1,0.01%
+Italy,Data Acquisition Technician,50-69,1,0.01%
+Italy,Data Analyst,18-29,1,0.01%
+Hungary,Data Analysis Assistant,50-69,1,0.01%
+Italy,Marketing Database Analyst,50-69,1,0.01%
+Latvia,Data Architect,30-49,1,0.01%
+Latvia,Data Analyst,50-69,1,0.01%
+Latvia,Clinical Data Manager,50-69,1,0.01%
+Italy,Voice and Data Technician,18-29,1,0.01%
+Italy,Survey Data Technician,30-49,1,0.01%
+Italy,Scientific Database Curator,30-49,1,0.01%
+Italy,SQL Database Administrator,18-29,1,0.01%
+Italy,SCADA Operator (Supervisory Control and Data Acquisition Operator),50-69,1,0.01%
+Italy,Oracle Database Administrator (Oracle DBA),30-49,1,0.01%
+Italy,Oracle Database Administrator (Oracle DBA),18-29,1,0.01%
+Italy,"Operations Officer, Afloat (Naval Tactical Data Systems)",30-49,1,0.01%
+Italy,Naval Tactical Data System--Combat Information Center Officer,50-69,1,0.01%
+Italy,Micro Computer Data Processor,50-69,1,0.01%
+Italy,Micro Computer Data Processor,30-49,1,0.01%
+Italy,Health Data Analyst,50-69,1,0.01%
+Italy,Electronic Data Interchange System Developer (EDI System Developer),50-69,1,0.01%
+Italy,Head of Information Systems and Data Processing,30-49,1,0.01%
+Italy,Head of Information Systems and Data Processing,18-29,1,0.01%
+Italy,Geographic Information Systems Database Administrator (GIS Database Administrator),18-29,1,0.01%
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),30-49,1,0.01%
+Italy,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,1,0.01%
+Italy,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Italy,GPS Field Data Collector (Global Positioning System Field Data Collector),50-69,1,0.01%
+Italy,Flight Test Data Acquisition Technician,50-69,1,0.01%
+Italy,Flight Data Technician,50-69,1,0.01%
+Italy,Field Traffic Data Technician,50-69,1,0.01%
+Italy,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Italy,Field Artillery Automated Tactical Data System Specialist,30-49,1,0.01%
+Italy,"Engineer, System Electronic Data Processing (Engineer, System EDP)",30-49,1,0.01%
+Italy,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,1,0.01%
+Latvia,Data Base Design Analyst,18-29,1,0.01%
+Latvia,Data Communications Analyst,18-29,1,0.01%
+Latvia,Data Conversion Operator,50-69,1,0.01%
+Latvia,Data Coordinator,30-49,1,0.01%
+Lithuania,Database Designer,50-69,1,0.01%
+Lithuania,Database Design Analyst,30-49,1,0.01%
+Lithuania,Database Administration Manager,18-29,1,0.01%
+Lithuania,Data Warehouse Specialist,50-69,1,0.01%
+Lithuania,Data Warehouse Architect,50-69,1,0.01%
+Lithuania,Data Security Administrator,50-69,1,0.01%
+Lithuania,Data Processing Systems Project Planner,30-49,1,0.01%
+Lithuania,Data Processing Auditor,30-49,1,0.01%
+Lithuania,Data Operations Director,50-69,1,0.01%
+Lithuania,Data Entry Specialist,30-49,1,0.01%
+Lithuania,Data Communications Software Consultant,50-69,1,0.01%
+Lithuania,Data Communications Software Consultant,18-29,1,0.01%
+Lithuania,Clinical Data Management Associate Director,30-49,1,0.01%
+Lithuania,Automatic Data Processing Planner (ADP Planner),50-69,1,0.01%
+Lithuania,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Latvia,Weight in Motion Field Data Collection Technician,50-69,1,0.01%
+Latvia,Head of Information Systems and Data Processing,50-69,1,0.01%
+Latvia,Director of Data Operations,50-69,1,0.01%
+Latvia,Databases Computer Consultant,50-69,1,0.01%
+Latvia,Database Design Analyst,30-49,1,0.01%
+Latvia,Database Administration Associate,18-29,1,0.01%
+Latvia,Data Warehousing Specialist,50-69,1,0.01%
+Latvia,Data Warehousing Manager,50-69,1,0.01%
+Latvia,Data Warehouse Architect,30-49,1,0.01%
+Latvia,Data Systems Manager,50-69,1,0.01%
+Latvia,Data Processing Systems Project Planner,50-69,1,0.01%
+Latvia,Data Processing Manager,30-49,1,0.01%
+Latvia,Data Processing Clerk,18-29,1,0.01%
+Latvia,Data Operations Director,18-29,1,0.01%
+Italy,Electronic Data Processing Auditor (EDP Auditor),18-29,1,0.01%
+Italy,Electronic Data Interchange System Developer (EDI System Developer),18-29,1,0.01%
+Italy,Data Analyst,30-49,1,0.01%
+Italy,Data Coordinator,18-29,1,0.01%
+Italy,Data Processing Auditor,30-49,1,0.01%
+Italy,Data Modeler,30-49,1,0.01%
+Italy,Data Manager,30-49,1,0.01%
+Italy,Data Management Information Technology Specialist,30-49,1,0.01%
+Italy,Data Management Associate,30-49,1,0.01%
+Italy,Data Examination Clerk,30-49,1,0.01%
+Italy,Data Entry Specialist,50-69,1,0.01%
+Italy,Data Entry Representative,30-49,1,0.01%
+Italy,Data Entry Operator,50-69,1,0.01%
+Italy,Data Entry Machine Operator,50-69,1,0.01%
+Italy,Data Entry Clerk,50-69,1,0.01%
+Italy,Data Entry Clerk,30-49,1,0.01%
+Italy,Data Entry Clerk,18-29,1,0.01%
+Italy,Data Entry Associate,50-69,1,0.01%
+Italy,Data Conversion Operator,50-69,1,0.01%
+Italy,Director of Data Operations,30-49,1,0.01%
+Italy,Data Control Clerk Supervisor,50-69,1,0.01%
+Italy,Data Control Clerk Supervisor,30-49,1,0.01%
+Italy,Data Control Assistant,30-49,1,0.01%
+Italy,Data Control Assistant,18-29,1,0.01%
+Italy,Data Compiler,30-49,1,0.01%
+Italy,Data Communications Technician,50-69,1,0.01%
+Italy,Data Collector,50-69,1,0.01%
+Italy,Data Collector,30-49,1,0.01%
+Italy,Data Collection Technician,50-69,1,0.01%
+Italy,Data Coder Operator,18-29,1,0.01%
+Italy,Data Center Operator,50-69,1,0.01%
+Italy,Data Capture Clerk,30-49,1,0.01%
+Italy,Data Base Design Analyst,30-49,1,0.01%
+Italy,Data Base Design Analyst,18-29,1,0.01%
+Italy,Data Processing Auxiliary Equipment Operator,50-69,1,0.01%
+Italy,Data Processing Control Clerk,30-49,1,0.01%
+Italy,Data Processing Control Clerk,50-69,1,0.01%
+Italy,Data Processing Services Sales Representative,50-69,1,0.01%
+Italy,Director of Data Operations,18-29,1,0.01%
+Italy,Datastage Developer,50-69,1,0.01%
+Italy,Databases Software Consultant,50-69,1,0.01%
+Italy,Databases Computer Consultant,30-49,1,0.01%
+Italy,Database Specialist,30-49,1,0.01%
+Italy,Database Security Expert,18-29,1,0.01%
+Italy,Database Engineer,18-29,1,0.01%
+Italy,Database Developer,50-69,1,0.01%
+Italy,Database Developer,30-49,1,0.01%
+Italy,Database Designer,18-29,1,0.01%
+Italy,Database Coordinator,30-49,1,0.01%
+Italy,Database Consultant,18-29,1,0.01%
+Italy,Database Architect,18-29,1,0.01%
+Italy,Database Analyst,18-29,1,0.01%
+Italy,Database Administrator (DBA),50-69,1,0.01%
+Italy,Database Administration Project Manager,50-69,1,0.01%
+Italy,Data Warehousing Specialist,30-49,1,0.01%
+Italy,Data Warehouse Specialist,18-29,1,0.01%
+Italy,Data Warehouse Architect,18-29,1,0.01%
+Italy,Data Transcriber,50-69,1,0.01%
+Italy,Data Technician,50-69,1,0.01%
+Italy,Data Systems Manager,18-29,1,0.01%
+Italy,Data Specialist,30-49,1,0.01%
+Italy,Data Scientist,18-29,1,0.01%
+Italy,Data Sciences Director,50-69,1,0.01%
+Italy,Data Sciences Director,18-29,1,0.01%
+Italy,Data Reduction Technician,30-49,1,0.01%
+Italy,Data Processing Systems Analyst,18-29,1,0.01%
+Italy,Data Processing Supervisor,50-69,1,0.01%
+Hungary,Data Architect,30-49,1,0.01%
+Hungary,Data Administrator,50-69,1,0.01%
+Germany,Data Abstractor,50-69,1,0.01%
+Germany,SQL Database Administrator,18-29,1,0.01%
+Great Britain,Data Abstractor,30-49,1,0.01%
+Great Britain,Customer Data Technician,30-49,1,0.01%
+Great Britain,Crime Data Specialist,18-29,1,0.01%
+Great Britain,Clinical Data Specialist,30-49,1,0.01%
+Great Britain,Clinical Data Manager,30-49,1,0.01%
+Great Britain,Clinical Data Management Associate Director,50-69,1,0.01%
+Great Britain,Clinical Data Associate,30-49,1,0.01%
+Great Britain,Business Database Analyst,30-49,1,0.01%
+Great Britain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),18-29,1,0.01%
+Great Britain,Automatic Data Processing Planner (ADP Planner),18-29,1,0.01%
+Great Britain,Automatic Data Processing Planner,30-49,1,0.01%
+Great Britain,Analytical Data Miner,30-49,1,0.01%
+Great Britain,Analytical Data Miner,18-29,1,0.01%
+Germany,Survey Data Technician,50-69,1,0.01%
+Germany,SCADA Technician (Supervisory Control and Data Acquisition Technician),50-69,1,0.01%
+Germany,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Germany,SCADA Operator (Supervisory Control and Data Acquisition Operator),50-69,1,0.01%
+Germany,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",50-69,1,0.01%
+Germany,Naval Tactical Data System--Combat Information Center Officer,50-69,1,0.01%
+Germany,Micro Computer Data Processor,50-69,1,0.01%
+Germany,Micro Computer Data Processor,30-49,1,0.01%
+Germany,Medical Data Analyst,50-69,1,0.01%
+Germany,Medical Data Analyst,18-29,1,0.01%
+Germany,Marketing Database Analyst,30-49,1,0.01%
+Germany,Maintenance Data Analyst,50-69,1,0.01%
+Germany,Log Data Technician,50-69,1,0.01%
+Germany,Log Data Technician,30-49,1,0.01%
+Germany,Log Data Technician,18-29,1,0.01%
+Germany,LiDAR Data Analyst,50-69,1,0.01%
+Germany,Health Data Analyst,30-49,1,0.01%
+Great Britain,Data Acquisition Technician,50-69,1,0.01%
+Great Britain,Data Center Manager,50-69,1,0.01%
+Great Britain,Data Center Operator,50-69,1,0.01%
+Great Britain,Data Collection Technician,50-69,1,0.01%
+Great Britain,Data Processing Systems Project Planner,30-49,1,0.01%
+Great Britain,Data Processing Systems Project Planner,18-29,1,0.01%
+Great Britain,Data Processing Supervisor,50-69,1,0.01%
+Great Britain,Data Processing Services Sales Representative,30-49,1,0.01%
+Great Britain,Data Processing Mechanic,50-69,1,0.01%
+Great Britain,Data Processing Manager,30-49,1,0.01%
+Great Britain,Data Processing Manager,18-29,1,0.01%
+Great Britain,Data Processing Control Clerk,50-69,1,0.01%
+Great Britain,Data Processing Auxiliary Equipment Operator,30-49,1,0.01%
+Great Britain,Data Processing Auditor,18-29,1,0.01%
+Great Britain,Data Operations Director,30-49,1,0.01%
+Great Britain,Data Operations Director,18-29,1,0.01%
+Great Britain,Data Manager,50-69,1,0.01%
+Great Britain,Data Manager,18-29,1,0.01%
+Great Britain,Data Management Manager,30-49,1,0.01%
+Great Britain,Data Management Information Technology Specialist,18-29,1,0.01%
+Great Britain,Data Management Associate,30-49,1,0.01%
+Great Britain,Data Keyer,50-69,1,0.01%
+Great Britain,Data Input Clerk,50-69,1,0.01%
+Great Britain,Data Input Clerk,30-49,1,0.01%
+Great Britain,Data Input Clerk,18-29,1,0.01%
+Great Britain,Data Entry Technician,18-29,1,0.01%
+Great Britain,Data Entry Representative,50-69,1,0.01%
+Great Britain,Data Entry Machine Operator,50-69,1,0.01%
+Great Britain,Data Entry Clerk,50-69,1,0.01%
+Great Britain,Data Entry Associate,30-49,1,0.01%
+Great Britain,Data Conversion Operator,50-69,1,0.01%
+Great Britain,Data Communications Analyst,18-29,1,0.01%
+Great Britain,Data Collector,50-69,1,0.01%
+Germany,Geographic Information Systems Database Administrator (GIS Database Administrator),18-29,1,0.01%
+Germany,Flight Test Data Acquisition Technician,50-69,1,0.01%
+Great Britain,Data Recovery Planner,50-69,1,0.01%
+Germany,Data Entry Technician,50-69,1,0.01%
+Germany,Data Processing Systems Analyst,18-29,1,0.01%
+Germany,Data Processing Supervisor,50-69,1,0.01%
+Germany,Data Processing Services Sales Representative,30-49,1,0.01%
+Germany,Data Processing Services Sales Representative,18-29,1,0.01%
+Germany,Data Processing Equipment Repairer,50-69,1,0.01%
+Germany,Data Processing Control Clerk,50-69,1,0.01%
+Germany,Data Processing Clerk,50-69,1,0.01%
+Germany,Data Modeler,50-69,1,0.01%
+Germany,Data Manager,50-69,1,0.01%
+Germany,Data Management Manager,30-49,1,0.01%
+Germany,Data Management Associate,30-49,1,0.01%
+Germany,Data Management Associate,18-29,1,0.01%
+Germany,Data Keyer,50-69,1,0.01%
+Germany,Data Keyer,18-29,1,0.01%
+Germany,Data Entry Technician,30-49,1,0.01%
+Germany,Flight Test Data Acquisition Technician,18-29,1,0.01%
+Germany,Data Entry Technician,18-29,1,0.01%
+Germany,Data Entry Supervisor,50-69,1,0.01%
+Germany,Data Entry Supervisor,30-49,1,0.01%
+Germany,Data Entry Representative,30-49,1,0.01%
+Germany,Data Entry Representative,18-29,1,0.01%
+Germany,Data Entry Machine Operator,18-29,1,0.01%
+Germany,Data Coordinator,18-29,1,0.01%
+Germany,Data Control Clerk Supervisor,50-69,1,0.01%
+Germany,Data Coder Operator,50-69,1,0.01%
+Germany,Data Center Operator,30-49,1,0.01%
+Germany,Data Center Operator,18-29,1,0.01%
+Germany,Data Center Manager,50-69,1,0.01%
+Germany,Data Center Manager,30-49,1,0.01%
+Germany,Data Administrator,18-29,1,0.01%
+Germany,Data Processor,30-49,1,0.01%
+Germany,Data Recovery Planner,50-69,1,0.01%
+Germany,Data Reduction Technician,30-49,1,0.01%
+Germany,Data Reduction Technician,50-69,1,0.01%
+Germany,Flight Data Technician,30-49,1,0.01%
+Germany,Field Traffic Data Technician,50-69,1,0.01%
+Germany,Field Traffic Data Technician,30-49,1,0.01%
+Germany,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Germany,Datastage Developer,50-69,1,0.01%
+Germany,Databases Software Consultant,18-29,1,0.01%
+Germany,Database Security Expert,30-49,1,0.01%
+Germany,Database Security Expert,18-29,1,0.01%
+Germany,Database Programmer,50-69,1,0.01%
+Germany,Database Modeler,18-29,1,0.01%
+Germany,Database Marketing Analyst,30-49,1,0.01%
+Germany,Database Manager,18-29,1,0.01%
+Germany,Database Development Project Manager,18-29,1,0.01%
+Germany,Database Developer,50-69,1,0.01%
+Germany,Database Developer,30-49,1,0.01%
+Germany,Database Designer,30-49,1,0.01%
+Germany,Database Administration Project Manager,50-69,1,0.01%
+Germany,Database Administration Associate,18-29,1,0.01%
+Germany,Data Warehousing Manager,18-29,1,0.01%
+Germany,Data Warehouse Analyst,30-49,1,0.01%
+Germany,Data Warehouse Analyst,18-29,1,0.01%
+Germany,Data Transcriber,50-69,1,0.01%
+Germany,Data Transcriber,30-49,1,0.01%
+Germany,Data Transcriber,18-29,1,0.01%
+Germany,Data Technician,30-49,1,0.01%
+Germany,Data Storage Specialist,18-29,1,0.01%
+Germany,Data Specialist,50-69,1,0.01%
+Germany,Data Specialist,30-49,1,0.01%
+Germany,Data Security Analyst,18-29,1,0.01%
+Great Britain,Data Recovery Planner,30-49,1,0.01%
+Great Britain,Data Reduction Technician,50-69,1,0.01%
+Hungary,Data Acquisition Technician,50-69,1,0.01%
+Greece,Data Warehouse Analyst,50-69,1,0.01%
+Greece,Database Design Analyst,50-69,1,0.01%
+Greece,Database Coordinator,30-49,1,0.01%
+Greece,Database Consultant,50-69,1,0.01%
+Greece,Database Consultant,30-49,1,0.01%
+Greece,Database Architect,50-69,1,0.01%
+Greece,Database Administration Project Manager,50-69,1,0.01%
+Greece,Database Administration Manager,50-69,1,0.01%
+Greece,Database Administration Manager,18-29,1,0.01%
+Greece,Database Administration Associate,50-69,1,0.01%
+Greece,Database Administration Associate,30-49,1,0.01%
+Greece,Data Warehousing Specialist,50-69,1,0.01%
+Greece,Data Warehousing Specialist,30-49,1,0.01%
+Greece,Data Warehousing Specialist,18-29,1,0.01%
+Greece,Data Warehouse Architect,50-69,1,0.01%
+Greece,Data Warehouse Analyst,30-49,1,0.01%
+Greece,Data Entry Clerk,30-49,1,0.01%
+Greece,Data Systems Manager,50-69,1,0.01%
+Greece,Data Storage Specialist,30-49,1,0.01%
+Greece,Data Scientist,50-69,1,0.01%
+Greece,Data Scientist,30-49,1,0.01%
+Greece,Data Processor,50-69,1,0.01%
+Greece,Data Processing Systems Project Planner,30-49,1,0.01%
+Greece,Data Processing Systems Analyst,50-69,1,0.01%
+Greece,Data Processing Manager,50-69,1,0.01%
+Greece,Data Modeling Specialist,50-69,1,0.01%
+Greece,Data Management Information Technology Specialist,50-69,1,0.01%
+Greece,Data Management Information Technology Specialist,30-49,1,0.01%
+Greece,Data Management Information Technology Specialist,18-29,1,0.01%
+Greece,Data Keyer,50-69,1,0.01%
+Greece,Data Examination Clerk,30-49,1,0.01%
+Greece,Database Designer,30-49,1,0.01%
+Greece,Database Designer,50-69,1,0.01%
+Greece,Database Management System Specialist (DBMS Specialist),50-69,1,0.01%
+Greece,Database Marketing Analyst,50-69,1,0.01%
+Hungary,Customer Data Technician,50-69,1,0.01%
+Hungary,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Hungary,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Hungary,Automatic Data Processing Planner (ADP Planner),18-29,1,0.01%
+Hungary,Automatic Data Processing Planner,18-29,1,0.01%
+Hungary,Automatic Data Processing Customer Liaison (ADP Customer Liaison),50-69,1,0.01%
+Greece,Weight in Motion Field Data Collection Technician,30-49,1,0.01%
+Greece,SQL Database Administrator,50-69,1,0.01%
+Greece,SCADA Technician (Supervisory Control and Data Acquisition Technician),30-49,1,0.01%
+Greece,"Naval Tactical Data System--Combat Information Center Watch Officer, General",30-49,1,0.01%
+Greece,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",18-29,1,0.01%
+Greece,Log Data Technician,50-69,1,0.01%
+Greece,Geographic Information Systems Database Administrator (GIS Database Administrator),30-49,1,0.01%
+Greece,Geographic Information Systems Data Specialist (GIS Data Specialist),50-69,1,0.01%
+Greece,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,1,0.01%
+Greece,Geographic Information Systems Data Manager (GIS Data Manager),18-29,1,0.01%
+Greece,Geographic Information Systems Data Administrator (GIS Data Administrator),30-49,1,0.01%
+Greece,"Engineer, System Electronic Data Processing (Engineer, System EDP)",50-69,1,0.01%
+Greece,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,1,0.01%
+Greece,Electronic Data Processing Auditor (EDP Auditor),30-49,1,0.01%
+Greece,Electronic Data Interchange System Developer (EDI System Developer),30-49,1,0.01%
+Greece,Database Specialist,50-69,1,0.01%
+Greece,Database Specialist,30-49,1,0.01%
+Greece,Database Software Technician,30-49,1,0.01%
+Greece,Database Security Expert,50-69,1,0.01%
+Greece,Database Security Expert,18-29,1,0.01%
+Greece,Database Programmer,50-69,1,0.01%
+Greece,Database Modeler,30-49,1,0.01%
+Greece,Database Modeler,18-29,1,0.01%
+Greece,Data Entry Technician,50-69,1,0.01%
+Greece,Data Coordinator,50-69,1,0.01%
+Great Britain,Data Sciences Director,18-29,1,0.01%
+Great Britain,Database Development Project Manager,50-69,1,0.01%
+Great Britain,Field Traffic Data Technician,50-69,1,0.01%
+Great Britain,Field Traffic Data Technician,30-49,1,0.01%
+Great Britain,Field Traffic Data Technician,18-29,1,0.01%
+Great Britain,Field Artillery Automated Tactical Data System Specialist,50-69,1,0.01%
+Great Britain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",18-29,1,0.01%
+Great Britain,Electronic Data Processing Auditor (EDP Auditor),18-29,1,0.01%
+Great Britain,Electronic Data Interchange System Developer (EDI System Developer),18-29,1,0.01%
+Great Britain,Databases Software Consultant,18-29,1,0.01%
+Great Britain,Databases Computer Consultant,30-49,1,0.01%
+Great Britain,Database Technician,50-69,1,0.01%
+Great Britain,Database Security Expert,18-29,1,0.01%
+Great Britain,Database Programmer,50-69,1,0.01%
+Great Britain,Database Marketing Analyst,50-69,1,0.01%
+Great Britain,Database Development and Administration Project Manager,30-49,1,0.01%
+Great Britain,Database Developer,50-69,1,0.01%
+Greece,Data Communications Technician,50-69,1,0.01%
+Great Britain,Database Coordinator,18-29,1,0.01%
+Great Britain,Database Administrator (DBA),18-29,1,0.01%
+Great Britain,Database Administration Project Manager,18-29,1,0.01%
+Great Britain,Data Warehousing Specialist,30-49,1,0.01%
+Great Britain,Data Warehousing Specialist,18-29,1,0.01%
+Great Britain,Data Warehousing Manager,50-69,1,0.01%
+Great Britain,Data Warehouse Architect,30-49,1,0.01%
+Great Britain,Data Warehouse Architect,18-29,1,0.01%
+Great Britain,Data Technician,30-49,1,0.01%
+Great Britain,Data Systems Manager,18-29,1,0.01%
+Great Britain,Data Specialist,50-69,1,0.01%
+Great Britain,Data Security Analyst,18-29,1,0.01%
+Great Britain,Data Security Administrator,18-29,1,0.01%
+Great Britain,Data Scientist,18-29,1,0.01%
+Great Britain,Flight Data Technician,30-49,1,0.01%
+Great Britain,Flight Test Data Acquisition Technician,18-29,1,0.01%
+Great Britain,Flight Test Data Acquisition Technician,30-49,1,0.01%
+Great Britain,GPS Field Data Collector (Global Positioning System Field Data Collector),30-49,1,0.01%
+Greece,Data Communications Software Consultant,50-69,1,0.01%
+Greece,Data Communications Analyst,50-69,1,0.01%
+Greece,Data Base Design Analyst,50-69,1,0.01%
+Greece,Data Architect,30-49,1,0.01%
+Greece,Data Abstractor,50-69,1,0.01%
+Greece,Data Abstractor,18-29,1,0.01%
+Greece,Customer Data Technician,50-69,1,0.01%
+Greece,Computer or Data Processing Systems Consultant,50-69,1,0.01%
+Greece,Clinical Data Associate,50-69,1,0.01%
+Greece,Automatic Data Processing Systems Security Specialist (ADP Systems Security),30-49,1,0.01%
+Greece,Automatic Data Processing Planner (ADP Planner),30-49,1,0.01%
+Greece,Automatic Data Processing Planner,50-69,1,0.01%
+Greece,Automatic Data Processing Customer Liaison (ADP Customer Liaison),18-29,1,0.01%
+Great Britain,Survey Data Technician,30-49,1,0.01%
+Great Britain,SCADA Technician (Supervisory Control and Data Acquisition Technician),30-49,1,0.01%
+Great Britain,SCADA Operator (Supervisory Control and Data Acquisition Operator),30-49,1,0.01%
+Great Britain,Oracle Database Administrator (Oracle DBA),18-29,1,0.01%
+Great Britain,Naval Tactical Data System--Combat Information Center Officer,30-49,1,0.01%
+Great Britain,Micro Computer Data Processor,50-69,1,0.01%
+Great Britain,Medical Data Analyst,30-49,1,0.01%
+Great Britain,Marketing Database Analyst,50-69,1,0.01%
+Great Britain,Maintenance Data Analyst,50-69,1,0.01%
+Great Britain,Maintenance Data Analyst,30-49,1,0.01%
+Great Britain,Log Data Technician,18-29,1,0.01%
+Great Britain,LiDAR Data Analyst,50-69,1,0.01%
+Great Britain,LiDAR Data Analyst,30-49,1,0.01%
+Great Britain,Geographic Information Systems Database Administrator (GIS Database Administrator),18-29,1,0.01%
+Great Britain,Geographic Information Systems Data Specialist (GIS Data Specialist),18-29,1,0.01%
+Great Britain,Geographic Information Systems Data Administrator (GIS Data Administrator),18-29,1,0.01%
+Hungary,Data Warehouse Specialist,50-69,1,0.01%

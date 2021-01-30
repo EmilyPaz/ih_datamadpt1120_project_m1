@@ -11,6 +11,9 @@ The results you are able to extract from this tool are:
 The tool let you extract a table with EU countries, jobs titles, age groups, and the quantity and percentage of people who is working or unemployed. You can choose to extract the whole table or an especific EU country instead. 
 
 HOW TO: As you choose the main script to run it with python, you need to add an argument --country where you can choose the EU country (for example: --country='Hungary') or choose the whole table writting 'complete table'.
+
+---
+
 <img align="right" width="100" height="100" src="https://media.fromthegrapevine.com/assets/images/2018/6/crowd-people.jpg.824x0_q71_crop-scale.jpg">
 
 ### 2. Employment vs unemployment chart
@@ -20,6 +23,8 @@ You can also choose to extract a pie chart to see the percentage of people emplo
 The last result you can extract is a table where you can see the quantity of people who was in favor, against or absteined to vote about the European Bio-Based Industries project in  2016. 
 
 <img align="left" width="100" height="100" src="https://www.bioeconomia.info/wp-content/uploads/2020/09/biogas-colza.jpg">
+
+---
 
 ## :bug: **STATUS**
 This is the first project made during Ironhack Bootcamp. My goal is to get this project improved step by step, applying all the knowledge we will keep learning these next months, so we can have an efficient and interesting tool to applicate with other kind of information we would want to process.
@@ -72,11 +77,4 @@ This is the first project made during Ironhack Bootcamp. My goal is to get this 
 ### :mailbox_with_mail: CONTACT INFO
 
 If you have any comments or questions please contact me! emilypaz3012@gmail.com
-
-
-
-        ├── raw
-        ├── processed
-        └── results
-```
 

@@ -25,8 +25,8 @@ You can also choose to extract a pie chart to see the percentage of people emplo
 
 ---
 
-### 3. Pro and Con Arguments about BBI project
-The last result you can extract is a table where you can see the quantity of people who was in favor, against or absteined to vote about the European Bio-Based Industries project in  2016. 
+### 3. Pro and Con Arguments about basic income
+The last result you can extract is a table where you can see the quantity of people who was in favor, against or absteined to vote about basic income in 2016. 
 
 ---
 

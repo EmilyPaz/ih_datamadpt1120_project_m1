@@ -38,7 +38,7 @@ def main(arguments):
     else:
         raise ValueError('Please answer yes or no')
 
-    question2 = input("Would you like to extract a table rating about BBI people's opinion in 2016? ")
+    question2 = input("Would you like to extract a table rating about basic income people's opinion in 2016? ")
 
     if question2.lower() == 'yes':
         voting_counts()

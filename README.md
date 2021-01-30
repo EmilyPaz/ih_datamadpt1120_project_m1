@@ -1,6 +1,10 @@
 # ih_datamadpt1120_project_m1
 Module 1 Project for Data Analytics Ironhack Bootcamp
 
+<p align="center">
+  <img width="300" height="300" src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/ironhack/original.jpg?1568082165">
+</p>
+
 ## **ABOUT**
 
 This project has the purpose to be a tool to extract some information about employment in each EU country. 
@@ -12,7 +16,7 @@ The results you are able to extract from this tool are:
 ### 1. Country, jobs and age group information
 The tool let you extract a table with EU countries, jobs titles, age groups, and the quantity and percentage of people who is working or unemployed. You can choose to extract the whole table or an especific EU country instead. 
 
-HOW TO: As you choose the main script to run it with python, you need to add an argument --country where you can choose the EU country (for example: --country='Hungary') or choose the whole table writting 'complete table'.
+**HOW TO**: As you choose the main script to run it with python, you need to add an argument --country where you can choose the EU country (for example: --country='Hungary') or choose the whole table writting 'complete table'.
 
 ---
 
